@@ -1,0 +1,1035 @@
+﻿Kode Akun;Nama Akun;Level
+5;BELANJA DAERAH;1
+5.1;BELANJA OPERASI;2
+5.1.01;Belanja Pegawai;3
+5.1.01.01;Belanja Gaji dan Tunjangan ASN;4
+5.1.01.01.01;Belanja Gaji Pokok ASN;5
+5.1.01.01.02;Belanja Tunjangan Keluarga ASN;5
+5.1.01.01.03;Belanja Tunjangan Jabatan ASN;5
+5.1.01.01.04;Belanja Tunjangan Fungsional ASN;5
+5.1.01.01.05;Belanja Tunjangan Fungsional Umum ASN;5
+5.1.01.01.06;Belanja Tunjangan Beras ASN;5
+5.1.01.01.07;Belanja Tunjangan PPh/Tunjangan Khusus ASN;5
+5.1.01.01.08;Belanja Pembulatan Gaji ASN;5
+5.1.01.01.09;Belanja Iuran Jaminan Kesehatan ASN;5
+5.1.01.01.10;Belanja Iuran Jaminan Kecelakaan Kerja ASN;5
+5.1.01.01.11;Belanja Iuran Jaminan Kematian ASN;5
+5.1.01.01.12;Belanja Iuran Simpanan Peserta Tabungan Perumahan Rakyat ASN;5
+5.1.01.01.13;Belanja Jaminan Hari Tua ASN;5
+5.1.01.01.14;Belanja Tunjangan Khusus*);5
+5.1.01.01.15;Belanja Zakat ASN;5
+5.1.01.02;Belanja Tambahan Penghasilan ASN;4
+5.1.01.02.01;Tambahan Penghasilan berdasarkan Beban Kerja ASN;5
+5.1.01.02.02;Tambahan Penghasilan berdasarkan Tempat Bertugas ASN;5
+5.1.01.02.03;Tambahan Penghasilan berdasarkan Kondisi Kerja ASN;5
+5.1.01.02.04;Tambahan Penghasilan berdasarkan Kelangkaan Profesi ASN;5
+5.1.01.02.05;Tambahan Penghasilan berdasarkan Prestasi Kerja ASN;5
+5.1.01.03;Tambahan Penghasilan berdasarkan Pertimbangan Objektif Lainnya ASN;4
+5.1.01.03.01;Belanja Insentif bagi ASN atas Pemungutan Pajak Daerah;5
+5.1.01.03.02;Belanja bagi ASN atas Insentif Pemungutan Retribusi Daerah;5
+5.1.01.03.03;Belanja Tunjangan Profesi Guru (TPG) PNSD;5
+5.1.01.03.04;Belanja Tunjangan Khusus Guru (TKG) PNSD;5
+5.1.01.03.05;Belanja Tambahan Penghasilan (Tamsil) Guru PNSD;5
+5.1.01.03.06;Belanja Jasa Pelayanan Kesehatan bagi ASN;5
+5.1.01.03.07;Belanja Honorarium;5
+5.1.01.03.08;Belanja Jasa Pengelolaan BMD;5
+5.1.01.03.09;Belanja Tunjangan Profesi Guru (TPG) PPPK;5
+5.1.01.03.10;Belanja Tunjangan Khusus Guru (TKG) PPPK;5
+5.1.01.03.11;Belanja Tambahan Penghasilan (Tamsil) Guru PPPK;5
+5.1.01.03.12;Belanja Tunjangan Khusus bagi Penyelenggara Pelayanan Terpadu Satu Pintu (PTSP) Daerah;5
+5.1.01.04;Belanja Gaji dan Tunjangan DPRD;4
+5.1.01.04.01;Belanja Uang Representasi DPRD;5
+5.1.01.04.02;Belanja Tunjangan Keluarga DPRD;5
+5.1.01.04.03;Belanja Tunjangan Beras DPRD;5
+5.1.01.04.04;Belanja Uang Paket DPRD;5
+5.1.01.04.05;Belanja Tunjangan Jabatan DPRD;5
+5.1.01.04.06;Belanja Tunjangan Alat Kelengkapan DPRD;5
+5.1.01.04.07;Belanja Tunjangan Alat Kelengkapan Lainnya DPRD;5
+5.1.01.04.08;Belanja Tunjangan Komunikasi Intensif Pimpinan dan Anggota DPRD;5
+5.1.01.04.09;Belanja Tunjangan Reses DPRD;5
+5.1.01.04.10;Belanja Pembebanan PPh kepada Pimpinan dan Anggota DPRD;5
+5.1.01.04.11;Belanja Pembulatan Gaji DPRD;5
+5.1.01.04.12;Belanja Tunjangan Kesejahteraan Pimpinan dan Anggota DPRD;5
+5.1.01.04.13;Belanja Tunjangan Transportasi DPRD;5
+5.1.01.04.14;Belanja Uang Jasa Pengabdian DPRD;5
+5.1.01.05;Belanja Gaji dan Tunjangan KDH/WKDH;4
+5.1.01.05.01;Belanja Gaji Pokok KDH/WKDH;5
+5.1.01.05.02;Belanja Tunjangan Keluarga KDH/WKDH;5
+5.1.01.05.03;Belanja Tunjangan Jabatan KDH/WKDH;5
+5.1.01.05.04;Belanja Tunjangan Beras KDH/WKDH;5
+5.1.01.05.05;Belanja Tunjangan PPh/Tunjangan Khusus KDH/WKDH;5
+5.1.01.05.06;Belanja Pembulatan Gaji KDH/WKDH;5
+5.1.01.05.07;Belanja Iuran Jaminan Kesehatan bagi KDH/WKDH;5
+5.1.01.05.08;Belanja Iuran Jaminan Kecelakaan Kerja KDH/WKDH;5
+5.1.01.05.09;Belanja Iuran Jaminan Kematian KDH/WKDH;5
+5.1.01.05.10;Belanja Insentif bagi KDH/WKDH atas Pemungutan Pajak Daerah;5
+5.1.01.05.11;Belanja Insentif bagi KDH/WKDH atas Pemungutan Retribusi Daerah bagi KDH/WKDH;5
+5.1.01.05.12;Belanja Jasa Pengelolaan BMD bagi KDH;5
+5.1.01.06;Belanja Penerimaan Lainnya Pimpinan DPRD serta KDH/WKDH;4
+5.1.01.06.01;Belanja Dana Operasional Pimpinan DPRD;5
+5.1.01.06.02;Belanja Dana Operasional KDH/WKDH;5
+5.1.01.07;Belanja Gaji dan Tunjangan MRP;4
+5.1.01.07.01;Belanja Uang Representasi MRP;5
+5.1.01.07.02;Belanja Tunjangan Keluarga MRP;5
+5.1.01.07.03;Belanja Tunjangan Beras MRP;5
+5.1.01.07.04;Belanja Uang Paket MRP;5
+5.1.01.07.05;Belanja Tunjangan Jabatan MRP;5
+5.1.01.07.06;Belanja Tunjangan Kelompok Kerja MRP;5
+5.1.01.07.07;Belanja Uang Penghargaan MRP;5
+5.1.01.07.08;Belanja Tunjangan Komunikasi Intensif MRP;5
+5.1.01.07.09;Belanja Tunjangan Transportasi MRP;5
+5.1.01.07.10;Belanja Pembebanan PPh kepada Pimpinan dan Anggota MRP;5
+5.1.01.07.11;Belanja Pembulatan Gaji MRP;5
+5.1.01.07.12;Belanja Tunjangan Kesejahteraan Pimpinan dan Anggota MRP;5
+5.1.01.08;Belanja Gaji dan Tunjangan Perangkat Lembaga Wali Nanggroe;4
+5.1.01.08.01;Belanja Gaji dan Tunjangan Wali Nanggroe;5
+5.1.01.08.02;Belanja Gaji dan Tunjangan Waliyul Ahdi;5
+5.1.01.08.03;Belanja Gaji dan Tunjangan Majelis Tinggi;5
+5.1.01.08.04;Belanja Gaji dan Tunjangan Majelis Fungsional;5
+5.1.01.88;Belanja Pegawai BOS;4
+5.1.01.88.88;Belanja Pegawai BOS;5
+5.1.01.89;Belanja Pegawai BOSP;4
+5.1.01.89.01;Belanja Pegawai BOSP-BOS;5
+5.1.01.89.02;Belanja Pegawai BOSP-BOP PAUD;5
+5.1.01.89.03;Belanja Pegawai BOSP-BOP Kesetaraan;5
+5.1.01.99;Belanja Pegawai BLUD;4
+5.1.01.99.99;Belanja Pegawai BLUD;5
+5.1.02;Belanja Barang dan Jasa;3
+5.1.02.01;Belanja Barang;4
+5.1.02.01.01;Belanja Barang Pakai Habis;5
+5.1.02.01.02;Belanja Barang Tak Habis Pakai;5
+5.1.02.01.03;Belanja Barang Bekas Dipakai;5
+5.1.02.01.04;Belanja Aset Tetap yang Tidak Memenuhi Kriteria Kapitalisasi;5
+5.1.02.02;Belanja Jasa;4
+5.1.02.02.01;Belanja Jasa Kantor;5
+5.1.02.02.02;Belanja Iuran Jaminan/Asuransi;5
+5.1.02.02.03;Belanja Sewa Tanah;5
+5.1.02.02.04;Belanja Sewa Peralatan dan Mesin;5
+5.1.02.02.05;Belanja Sewa Gedung dan Bangunan;5
+5.1.02.02.06;Belanja Sewa Jalan, Jaringan dan Irigasi;5
+5.1.02.02.07;Belanja Sewa Aset Tetap Lainnya;5
+5.1.02.02.08;Belanja Jasa Konsultansi Konstruksi;5
+5.1.02.02.09;Belanja Jasa Konsultansi Non Konstruksi;5
+5.1.02.02.10;Belanja Jasa Ketersediaan Layanan (Availibility Payment);5
+5.1.02.02.11;Belanja Beasiswa Pendidikan PNS;5
+5.1.02.02.12;Belanja Kursus/Pelatihan, Sosialisasi, Bimbingan Teknis serta Pendidikan dan Pelatihan;5
+5.1.02.02.13;Belanja Jasa Insentif bagi Pegawai Non ASN atas Pemungutan Pajak Daerah;5
+5.1.02.02.14;Belanja Jasa Insentif bagi Pegawai Non ASN atas Pemungutan Retribusi Daerah;5
+5.1.02.02.15;Belanja Sewa Aset Tidak Berwujud;5
+5.1.02.03;Belanja Pemeliharaan;4
+5.1.02.03.01;Belanja Pemeliharaan Tanah;5
+5.1.02.03.02;Belanja Pemeliharaan Peralatan dan Mesin;5
+5.1.02.03.03;Belanja Pemeliharaan Gedung dan Bangunan;5
+5.1.02.03.04;Belanja Pemeliharaan Jalan, Jaringan, dan Irigasi;5
+5.1.02.03.05;Belanja Pemeliharaan Aset Tetap Lainnya;5
+5.1.02.03.06;Belanja Pemeliharaan Aset Tidak Berwujud;5
+5.1.02.04;Belanja Perjalanan Dinas;4
+5.1.02.04.01;Belanja Perjalanan Dinas Dalam Negeri;5
+5.1.02.04.02;Belanja Perjalanan Dinas Luar Negeri;5
+5.1.02.05;Belanja Uang dan/atau Jasa untuk Diberikan kepada Pihak Ketiga/Pihak Lain/Masyarakat;4
+5.1.02.05.01;Belanja Uang yang Diberikan kepada Pihak Ketiga/Pihak Lain/Masyarakat;5
+5.1.02.05.02;Belanja Jasa yang Diberikan kepada Pihak Ketiga/Pihak Lain/Masyarakat;5
+5.1.02.06;Belanja Penunjang Otonomi Khusus*);4
+5.1.02.06.01;Belanja Penunjang Otonomi Khusus*);5
+5.1.02.88;Belanja Barang dan Jasa BOS;4
+5.1.02.88.88;Belanja Barang dan Jasa BOS;5
+5.1.02.89;Belanja Barang dan Jasa BOSP;4
+5.1.02.89.01;Belanja Barang dan Jasa BOSP-BOS;5
+5.1.02.89.02;Belanja Barang dan Jasa BOSP-BOP PAUD;5
+5.1.02.89.03;Belanja Barang dan Jasa BOSP-BOP Kesetaraan;5
+5.1.02.90;Belanja Barang dan Jasa BOK Puskesmas;4
+5.1.02.90.01;Belanja Barang dan Jasa BOK Puskesmas;5
+5.1.02.99;Belanja Barang dan Jasa BLUD;4
+5.1.02.99.99;Belanja Barang dan Jasa BLUD;5
+5.1.03;Belanja Bunga;3
+5.1.03.01;Belanja Bunga Utang Pinjaman kepada Pemerintah Pusat;4
+5.1.03.01.01;Belanja Bunga Utang Pinjaman kepada Pemerintah Pusat atas Penerusan Pinjaman Dalam Negeri-Jangka Menengah;5
+5.1.03.01.02;Belanja Bunga Utang Pinjaman kepada Pemerintah Pusat atas Penerusan Pinjaman Dalam Negeri-Jangka Panjang;5
+5.1.03.01.03;Belanja Bunga Utang Pinjaman kepada Pemerintah Pusat atas Penerusan Pinjaman Luar Negeri-Jangka Menengah;5
+5.1.03.01.04;Belanja Bunga Utang Pinjaman kepada Pemerintah Pusat atas Penerusan Pinjaman Luar Negeri-Jangka Panjang;5
+5.1.03.01.05;Belanja Bunga Utang Pinjaman Sumber Lainnya sesuai Ketentuan Peraturan Perundang-Undangan-Jangka Menengah;5
+5.1.03.01.06;Belanja Bunga Utang Pinjaman Sumber Lainnya sesuai Ketentuan Peraturan Perundang-Undangan-Jangka Panjang;5
+5.1.03.02;Belanja Bunga Utang Pinjaman kepada Pemerintah Daerah Lain;4
+5.1.03.02.01;Belanja Bunga Utang Pinjaman kepada Pemerintah Daerah-Jangka Pendek;5
+5.1.03.03;Belanja Bunga Utang Pinjaman kepada Lembaga Keuangan Bank (LKB);4
+5.1.03.03.01;Belanja Bunga Utang Pinjaman kepada Lembaga Keuangan Bank (LKB)-BUMN-Jangka Pendek;5
+5.1.03.03.02;Belanja Bunga Utang Pinjaman kepada Lembaga Keuangan Bank (LKB)-BUMN-Jangka Menengah;5
+5.1.03.03.03;Belanja Bunga Utang Pinjaman kepada Lembaga Keuangan Bank (LKB)-BUMN-Jangka Panjang;5
+5.1.03.03.04;Belanja Bunga Utang Pinjaman kepada Lembaga Keuangan Bank (LKB)-BUMD-Jangka Pendek;5
+5.1.03.03.05;Belanja Bunga Utang Pinjaman kepada Lembaga Keuangan Bank (LKB)-BUMD-Jangka Menengah;5
+5.1.03.03.06;Belanja Bunga Utang Pinjaman kepada Lembaga Keuangan Bank (LKB)-BUMD-Jangka Panjang;5
+5.1.03.03.07;Belanja Bunga Utang Pinjaman kepada Lembaga Keuangan Bank (LKB)-Swasta-Jangka Pendek;5
+5.1.03.03.08;Belanja Bunga Utang Pinjaman kepada Lembaga Keuangan Bank (LKB)-Swasta-Jangka Menengah;5
+5.1.03.03.09;Belanja Bunga Utang Pinjaman kepada Lembaga Keuangan Bank (LKB)-Swasta-Jangka Panjang;5
+5.1.03.04;Belanja Bunga Utang Pinjaman kepada Lembaga Keuangan Bukan Bank (LKBB);4
+5.1.03.04.01;Belanja Bunga Utang Pinjaman kepada Lembaga Keuangan Bukan Bank (LKBB)-BUMN-Jangka Pendek;5
+5.1.03.04.02;Belanja Bunga Utang Pinjaman kepada Lembaga Keuangan Bukan Bank (LKBB)-BUMN-Jangka Menengah;5
+5.1.03.04.03;Belanja Bunga Utang Pinjaman kepada Lembaga Keuangan Bukan Bank (LKBB)-BUMN-Jangka Panjang;5
+5.1.03.04.04;Belanja Bunga Utang Pinjaman kepada Lembaga Keuangan Bukan Bank (LKBB)-BUMD-Jangka Pendek;5
+5.1.03.04.05;Belanja Bunga Utang Pinjaman kepada Lembaga Keuangan Bukan Bank (LKBB)-BUMD-Jangka Menengah;5
+5.1.03.04.06;Belanja Bunga Utang Pinjaman kepada Lembaga Keuangan Bukan Bank (LKBB)-BUMD-Jangka Panjang;5
+5.1.03.04.07;Belanja Bunga Utang Pinjaman kepada Lembaga Keuangan Bukan Bank (LKBB)-Swasta-Jangka Pendek;5
+5.1.03.04.08;Belanja Bunga Utang Pinjaman kepada Lembaga Keuangan Bukan Bank (LKBB)-Swasta-Jangka Menengah;5
+5.1.03.04.09;Belanja Bunga Utang Pinjaman kepada Lembaga Keuangan Bukan Bank (LKBB)-Swasta-Jangka Panjang;5
+5.1.03.05;Belanja Bunga Utang Kepada Masyarakat (Obligasi);4
+5.1.03.05.01;Belanja Bunga Utang Kepada Masyarakat (Obligasi);5
+5.1.03.06;Belanja Bunga Utang Pinjaman melalui BLUD;4
+5.1.03.06.01;Belanja Bunga Utang Pinjaman melalui BLUD-Jangka Pendek;5
+5.1.03.06.02;Belanja Bunga Utang Pinjaman melalui BLUD-Jangka Menengah;5
+5.1.03.06.03;Belanja Bunga Utang Pinjaman melalui BLUD-Jangka Panjang;5
+5.1.04;Belanja Subsidi;3
+5.1.04.01;Belanja Subsidi kepada BUMN;4
+5.1.04.01.01;Belanja Subsidi kepada BUMN;5
+5.1.04.02;Belanja Subsidi kepada BUMD;4
+5.1.04.02.02;Belanja Subsidi kepada BUMD;5
+5.1.04.03;Belanja Subsidi kepada Badan Usaha Milik Swasta;4
+5.1.04.03.01;Belanja Subsidi kepada Badan Usaha Milik Swasta;5
+5.1.04.04;Belanja Subsidi kepada Koperasi;4
+5.1.04.04.01;Belanja Subsidi kepada Koperasi;5
+5.1.05;Belanja Hibah;3
+5.1.05.01;Belanja Hibah kepada Pemerintah Pusat;4
+5.1.05.01.01;Belanja Hibah Uang kepada Pemerintah Pusat;5
+5.1.05.01.02;Belanja Hibah Barang kepada Pemerintah Pusat;5
+5.1.05.01.03;Belanja Hibah Jasa kepada Pemerintah Pusat;5
+5.1.05.02;Belanja Hibah kepada Pemerintah Daerah Lainnya;4
+5.1.05.02.01;Belanja Hibah Uang kepada Pemerintah Daerah Lainnya;5
+5.1.05.02.02;Belanja Hibah Barang kepada Pemerintah Daerah Lainnya;5
+5.1.05.02.03;Belanja Hibah Jasa kepada Pemerintah Daerah Lainnya;5
+5.1.05.03;Belanja Hibah kepada BUMN;4
+5.1.05.03.01;Belanja Hibah Uang kepada BUMN;5
+5.1.05.03.02;Belanja Hibah Barang kepada BUMN;5
+5.1.05.03.03;Belanja Hibah Jasa kepada BUMN;5
+5.1.05.04;Belanja Hibah kepada BUMD;4
+5.1.05.04.01;Belanja Hibah Uang kepada BUMD;5
+5.1.05.04.02;Belanja Hibah Barang kepada BUMD;5
+5.1.05.04.03;Belanja Hibah Jasa kepada BUMD;5
+5.1.05.05;Belanja Hibah kepada Badan, Lembaga, Organisasi Kemasyarakatan yang Berbadan Hukum Indonesia;4
+5.1.05.05.01;Belanja Hibah kepada Badan dan Lembaga yang Bersifat Nirlaba, Sukarela dan Sosial yang Dibentuk Berdasarkan Peraturan Perundang-Undangan;5
+5.1.05.05.02;Belanja Hibah kepada Badan dan Lembaga Nirlaba, Sukarela dan Sosial yang Telah Memiliki Surat Keterangan Terdaftar;5
+5.1.05.05.03;Belanja Hibah kepada Badan dan Lembaga Nirlaba, Sukarela Bersifat Sosial Kemasyarakatan;5
+5.1.05.05.04;Belanja Hibah kepada Koperasi;5
+5.1.05.05.05;Belanja Hibah kepada Usaha Mikro dan Usaha Kecil;5
+5.1.05.05.06;Belanja Hibah kepada Organisasi Kemasyarakatan yang Berbadan Hukum Indonesia;5
+5.1.05.06;Belanja Hibah Dana BOS;4
+5.1.05.06.01;Belanja Hibah Uang Dana BOS yang Diterima oleh Satdikdas Negeri;5
+5.1.05.06.02;Belanja Hibah Uang Dana BOS yang Diterima oleh Satdikdas Swasta;5
+5.1.05.06.03;Belanja Hibah Uang Dana BOS yang Diterima oleh Satdikmen Swasta;5
+5.1.05.06.04;Belanja Hibah Uang Dana BOS yang Diterima oleh Satdiksus Swasta;5
+5.1.05.07;Belanja Hibah Bantuan Keuangan kepada Partai Politik;4
+5.1.05.07.01;Belanja Hibah Bantuan Keuangan kepada Partai Politik;5
+5.1.05.08;Belanja Hibah Dana BOSP;4
+5.1.05.08.01;Belanja Hibah Dana BOSP-BOS;5
+5.1.05.08.02;Belanja Hibah Dana BOSP-BOP PAUD;5
+5.1.05.08.03;Belanja Hibah Dana BOSP-BOP Kesetaraan;5
+5.1.06;Belanja Bantuan Sosial;3
+5.1.06.01;Belanja Bantuan Sosial kepada Individu;4
+5.1.06.01.01;Belanja Bantuan Sosial Uang yang direncanakan kepada Individu;5
+5.1.06.01.02;Belanja Bantuan Sosial Barang yang Direncanakan kepada Individu;5
+5.1.06.02;Belanja Bantuan Sosial kepada Keluarga;4
+5.1.06.02.01;Belanja Bantuan Sosial Uang yang direncanakan kepada Keluarga;5
+5.1.06.02.02;Belanja Bantuan Sosial Barang yang Direncanakan kepada Keluarga;5
+5.1.06.03;Belanja Bantuan Sosial kepada Kelompok Masyarakat;4
+5.1.06.03.01;Belanja Bantuan Sosial Uang yang direncanakan kepada Kelompok Masyarakat;5
+5.1.06.03.02;Belanja Bantuan Sosial Barang yang Direncanakan kepada Kelompok Masyarakat;5
+5.1.06.04;Belanja Bantuan Sosial kepada Lembaga Non Pemerintahan (Bidang Pendidikan, Keagamaan dan Bidang Lainnya);4
+5.1.06.04.01;Belanja Bantuan Sosial Uang yang direncanakan kepada Lembaga Non Pemerintahan (Bidang Pendidikan, Keagamaan dan Bidang Lainnya);5
+5.1.06.04.02;Belanja Bantuan Sosial Barang yang Direncanakan kepada Lembaga Non Pemerintahan Bidang (Pendidikan, Keagamaan dan Bidang Lainnya);5
+5.2;BELANJA MODAL;2
+5.2.01;Belanja Modal Tanah;3
+5.2.01.01;Belanja Modal Tanah;4
+5.2.01.01.01;Belanja Modal Tanah Persil;5
+5.2.01.01.02;Belanja Modal Tanah Non Persil;5
+5.2.01.01.03;Belanja Modal Lapangan;5
+5.2.01.99;Belanja Modal Tanah BLUD;4
+5.2.01.99.99;Belanja Modal Tanah BLUD;5
+5.2.02;Belanja Modal Peralatan dan Mesin;3
+5.2.02.01;Belanja Modal Alat Besar;4
+5.2.02.01.01;Belanja Modal Alat Besar Darat;5
+5.2.02.01.02;Belanja Modal Alat Besar Apung;5
+5.2.02.01.03;Belanja Modal Alat Bantu;5
+5.2.02.02;Belanja Modal Alat Angkutan;4
+5.2.02.02.01;Belanja Modal Alat Angkutan Darat Bermotor;5
+5.2.02.02.02;Belanja Modal Alat Angkutan Darat Tak Bermotor;5
+5.2.02.02.03;Belanja Modal Alat Angkutan Apung Bermotor;5
+5.2.02.02.04;Belanja Modal Alat Angkutan Apung Tak Bermotor;5
+5.2.02.02.05;Belanja Modal Alat Angkutan Bermotor Udara;5
+5.2.02.03;Belanja Modal Alat Bengkel dan Alat Ukur;4
+5.2.02.03.01;Belanja Modal Alat Bengkel Bermesin;5
+5.2.02.03.02;Belanja Modal Alat Bengkel Tak Bermesin;5
+5.2.02.03.03;Belanja Modal Alat Ukur;5
+5.2.02.04;Belanja Modal Alat Pertanian;4
+5.2.02.04.01;Belanja Modal Alat Pengolahan;5
+5.2.02.05;Belanja Modal Alat Kantor dan Rumah Tangga;4
+5.2.02.05.01;Belanja Modal Alat Kantor;5
+5.2.02.05.02;Belanja Modal Alat Rumah Tangga;5
+5.2.02.05.03;Belanja Modal Meja dan Kursi Kerja/Rapat Pejabat;5
+5.2.02.06;Belanja Modal Alat Studio, Komunikasi, dan Pemancar;4
+5.2.02.06.01;Belanja Modal Alat Studio;5
+5.2.02.06.02;Belanja Modal Alat Komunikasi;5
+5.2.02.06.03;Belanja Modal Peralatan Pemancar;5
+5.2.02.06.04;Belanja Modal Peralatan Komunikasi Navigasi;5
+5.2.02.07;Belanja Modal Alat Kedokteran dan Kesehatan;4
+5.2.02.07.01;Belanja Modal Alat Kedokteran;5
+5.2.02.07.02;Belanja Modal Alat Kesehatan Umum;5
+5.2.02.08;Belanja Modal Alat Laboratorium;4
+5.2.02.08.01;Belanja Modal Unit Alat Laboratorium;5
+5.2.02.08.02;Belanja Modal Unit Alat Laboratorium Kimia Nuklir;5
+5.2.02.08.03;Belanja Modal Alat Peraga Praktek Sekolah;5
+5.2.02.08.04;Belanja Modal Alat Laboratorium Fisika Nuklir/Elektronika;5
+5.2.02.08.05;Belanja Modal Alat Proteksi Radiasi/Proteksi Lingkungan;5
+5.2.02.08.06;Belanja Modal Radiation Application and Non Destructive Testing Laboratory Lainnya;5
+5.2.02.08.07;Belanja Modal Alat Laboratorium Lingkungan Hidup;5
+5.2.02.08.08;Belanja Modal Peralatan Laboratorium Hydrodinamica;5
+5.2.02.08.09;Belanja Modal Alat Laboratorium Standarisasi Kalibrasi dan Instrumentasi;5
+5.2.02.10;Belanja Modal Komputer;4
+5.2.02.10.01;Belanja Modal Komputer Unit;5
+5.2.02.10.02;Belanja Modal Peralatan Komputer;5
+5.2.02.11;Belanja Modal Alat Eksplorasi;4
+5.2.02.11.01;Belanja Modal Alat Eksplorasi Topografi;5
+5.2.02.11.02;Belanja Modal Alat Eksplorasi Geofisika;5
+5.2.02.12;Belanja Modal Alat Pengeboran;4
+5.2.02.12.01;Belanja Modal Alat Pengeboran Mesin;5
+5.2.02.12.02;Belanja Modal Alat Pengeboran Non Mesin;5
+5.2.02.13;Belanja Modal Alat Produksi, Pengolahan, dan Pemurnian;4
+5.2.02.13.01;Belanja Modal Sumur;5
+5.2.02.13.02;Belanja Modal Produksi;5
+5.2.02.13.03;Belanja Modal Pengolahan dan Pemurnian;5
+5.2.02.14;Belanja Modal Alat Bantu Eksplorasi;4
+5.2.02.14.01;Belanja Modal Alat Bantu Eksplorasi;5
+5.2.02.14.02;Belanja Modal Alat Bantu Produksi;5
+5.2.02.15;Belanja Modal Alat Keselamatan Kerja;4
+5.2.02.15.01;Belanja Modal Alat Deteksi;5
+5.2.02.15.02;Belanja Modal Alat Pelindung;5
+5.2.02.15.03;Belanja Modal Alat SAR;5
+5.2.02.15.04;Belanja Modal Alat Kerja Penerbangan;5
+5.2.02.16;Belanja Modal Alat Peraga;4
+5.2.02.16.01;Belanja Modal Alat Peraga Pelatihan dan Percontohan;5
+5.2.02.17;Belanja Modal Peralatan Proses/Produksi;4
+5.2.02.17.01;Belanja Modal Unit Peralatan Proses/Produksi;5
+5.2.02.18;Belanja Modal Rambu-Rambu;4
+5.2.02.18.01;Belanja Modal Rambu-Rambu Lalu Lintas Darat;5
+5.2.02.18.02;Belanja Modal Rambu-Rambu Lalu Lintas Udara;5
+5.2.02.18.03;Belanja Modal Rambu-Rambu Lalu Lintas Laut;5
+5.2.02.19;Belanja Modal Peralatan Olahraga;4
+5.2.02.19.01;Belanja Modal Peralatan Olahraga;5
+5.2.02.88;Belanja Modal Peralatan dan Mesin BOS;4
+5.2.02.88.88;Belanja Modal Peralatan dan Mesin BOS;5
+5.2.02.89;Belanja Modal Peralatan dan Mesin BOSP;4
+5.2.02.89.01;Belanja Modal Peralatan dan Mesin BOSP-BOS;5
+5.2.02.89.02;Belanja Modal Peralatan dan Mesin BOSP-BOP PAUD;5
+5.2.02.89.03;Belanja Modal Peralatan dan Mesin BOSP-BOP Kesetaraan;5
+5.2.02.99;Belanja Modal Peralatan dan Mesin BLUD;4
+5.2.02.99.99;Belanja Modal Peralatan dan Mesin BLUD;5
+5.2.03;Belanja Modal Gedung dan Bangunan;3
+5.2.03.01;Belanja Modal Bangunan Gedung;4
+5.2.03.01.01;Belanja Modal Bangunan Gedung Tempat Kerja;5
+5.2.03.01.02;Belanja Modal Bangunan Gedung Tempat Tinggal;5
+5.2.03.02;Belanja Modal Monumen;4
+5.2.03.02.01;Belanja Modal Candi/Tugu Peringatan/Prasasti;5
+5.2.03.03;Belanja Modal Bangunan Menara;4
+5.2.03.03.01;Belanja Modal Bangunan Menara Perambuan;5
+5.2.03.04;Belanja Modal Tugu Titik Kontrol/Pasti;4
+5.2.03.04.01;Belanja Modal Tugu/Tanda Batas;5
+5.2.03.99;Belanja Modal Gedung dan Bangunan BLUD;4
+5.2.03.99.99;Belanja Modal Gedung dan Bangunan BLUD;5
+5.2.04;Belanja Modal Jalan, Jaringan, dan Irigasi;3
+5.2.04.01;Belanja Modal Jalan dan Jembatan;4
+5.2.04.01.01;Belanja Modal Jalan;5
+5.2.04.01.02;Belanja Modal Jembatan;5
+5.2.04.02;Belanja Modal Bangunan Air;4
+5.2.04.02.01;Belanja Modal Bangunan Air Irigasi;5
+5.2.04.02.02;Belanja Modal Bangunan Pengairan Pasang Surut;5
+5.2.04.02.03;Belanja Modal Bangunan Pengembangan Rawa dan Polder;5
+5.2.04.02.04;Belanja Modal Bangunan Pengaman Sungai/Pantai dan Penanggulangan Bencana Alam;5
+5.2.04.02.05;Belanja Modal Bangunan Pengembangan Sumber Air dan Air Tanah;5
+5.2.04.02.06;Belanja Modal Bangunan Air Bersih/Air Baku;5
+5.2.04.02.07;Belanja Modal Bangunan Air Kotor;5
+5.2.04.03;Belanja Modal Instalasi;4
+5.2.04.03.01;Belanja Modal Instalasi Air Bersih/Air Baku;5
+5.2.04.03.02;Belanja Modal Instalasi Air Kotor;5
+5.2.04.03.03;Belanja Modal Instalasi Pengolahan Sampah;5
+5.2.04.03.04;Belanja Modal Instalasi Pengolahan Bahan Bangunan;5
+5.2.04.03.05;Belanja Modal Instalasi Pembangkit Listrik;5
+5.2.04.03.06;Belanja Modal Instalasi Gardu Listrik;5
+5.2.04.03.07;Belanja Modal Instalasi Pertahanan;5
+5.2.04.03.08;Belanja Modal Instalasi Gas;5
+5.2.04.03.09;Belanja Modal Instalasi Pengaman;5
+5.2.04.03.10;Belanja Modal Instalasi Lain;5
+5.2.04.04;Belanja Modal Jaringan;4
+5.2.04.04.01;Belanja Modal Jaringan Air Minum;5
+5.2.04.04.02;Belanja Modal Jaringan Listrik;5
+5.2.04.04.03;Belanja Modal Jaringan Telepon;5
+5.2.04.04.04;Belanja Modal Jaringan Gas;5
+5.2.04.99;Belanja Modal Jalan, Jaringan, dan Irigasi BLUD;4
+5.2.04.99.99;Belanja Modal Jalan, Jaringan, dan Irigasi BLUD;5
+5.2.05;Belanja Modal Aset Tetap Lainnya;3
+5.2.05.01;Belanja Modal Bahan Perpustakaan;4
+5.2.05.01.01;Belanja Modal Bahan Perpustakaan Tercetak;5
+5.2.05.01.02;Belanja Modal Bahan Perpustakaan Terekam dan Bentuk Mikro;5
+5.2.05.01.03;Belanja Modal Kartografi, Naskah, dan Lukisan;5
+5.2.05.01.04;Belanja Modal Musik;5
+5.2.05.01.05;Belanja Modal Karya Grafika (Graphic Material);5
+5.2.05.01.06;Belanja Modal Three Dimensional Artifacts and Realita;5
+5.2.05.01.07;Belanja Modal Tarscalt;5
+5.2.05.02;Belanja Modal Barang Bercorak Kesenian/Kebudayaan/Olahraga;4
+5.2.05.02.01;Belanja Modal Barang Bercorak Kesenian;5
+5.2.05.02.02;Belanja Modal Alat Bercorak Kebudayaan;5
+5.2.05.02.03;Belanja Modal Tanda Penghargaan;5
+5.2.05.03;Belanja Modal Hewan;4
+5.2.05.03.01;Belanja Modal Hewan Piaraan;5
+5.2.05.03.02;Belanja Modal Ternak;5
+5.2.05.03.03;Belanja Modal Hewan Lainnya;5
+5.2.05.04;Belanja Modal Biota Perairan;4
+5.2.05.04.01;Belanja Modal Ikan Bersirip (Pisces/Ikan Bersirip);5
+5.2.05.04.02;Belanja Modal Crustea (Udang, Rajungan, Kepiting, dan Sebangsanya);5
+5.2.05.04.03;Belanja Modal Mollusca (Kerang, Tiram, Cumi-cumi, Gurita, Siput, dan Sebangsanya);5
+5.2.05.04.04;Belanja Modal Coelenterata (Ubur-ubur dan Sebangsanya);5
+5.2.05.04.05;Belanja Modal Echinodermata (Tripang, Bulu Babi, dan Sebangsanya);5
+5.2.05.04.06;Belanja Modal Amphibia (Kodok dan Sebangsanya);5
+5.2.05.04.07;Belanja Modal Reptilia (Buaya, Penyu, Kura-kura, Biawak, Ular Air, dan Sebangsanya);5
+5.2.05.04.08;Belanja Modal Mammalia (Paus, Lumba-lumba, Pesut, Duyung, dan Sebangsanya);5
+5.2.05.04.09;Belanja Modal Algae (Rumput Laut dan Tumbuh-Tumbuhan Lain yang Hidup di Dalam Air);5
+5.2.05.04.10;Belanja Modal Biota Perairan Lainnya;5
+5.2.05.05;Belanja Modal Tanaman;4
+5.2.05.05.01;Belanja Modal Tanaman;5
+5.2.05.06;Belanja Modal Barang Koleksi Non Budaya;4
+5.2.05.06.01;Belanja Modal Barang Koleksi Non Budaya;5
+5.2.05.07;Belanja Modal Aset Tetap Dalam Renovasi;4
+5.2.05.07.01;Belanja Modal Aset Tetap Dalam Renovasi;5
+5.2.05.08;Belanja Modal Aset Tidak Berwujud;4
+5.2.05.08.01;Belanja Modal Aset Tidak Berwujud;5
+5.2.05.88;Belanja Modal Aset Tetap Lainnya BOS;4
+5.2.05.88.88;Belanja Modal Aset Tetap Lainnya BOS;5
+5.2.05.89;Belanja Modal Aset Tetap Lainnya BOSP;4
+5.2.05.89.01;Belanja Modal Aset Tetap Lainnya BOSP-BOS;5
+5.2.05.89.02;Belanja Modal Aset Tetap Lainnya BOSP-BOP PAUD;5
+5.2.05.89.03;Belanja Modal Aset Tetap Lainnya BOSP-BOP Kesetaraan;5
+5.2.05.99;Belanja Modal Aset Tetap Lainnya BLUD;4
+5.2.05.99.99;Belanja Modal Aset Tetap Lainnya BLUD;5
+5.2.06;Belanja Modal Aset Lainnya;3
+5.2.06.01;Belanja Modal Aset Lainnya-Aset Tidak Berwujud;4
+5.2.06.01.01;Belanja Modal Aset Tidak Berwujud;5
+5.2.06.99;Belanja Modal Aset Lainnya BLUD;4
+5.2.06.99.99;Belanja Modal Aset Lainnya BLUD;5
+5.3;BELANJA TIDAK TERDUGA;2
+5.3.01;Belanja Tidak Terduga;3
+5.3.01.01;Belanja Tidak Terduga;4
+5.3.01.01.01;Belanja Tidak Terduga;5
+5.4;BELANJA TRANSFER;2
+5.4.01;Belanja Bagi Hasil;3
+5.4.01.01;Belanja Bagi Hasil Pajak Daerah Kepada Pemerintahan Kabupaten/Kota dan Desa;4
+5.4.01.01.01;Belanja Bagi Hasil Pajak Daerah Kepada Pemerintahan Kabupaten;5
+5.4.01.01.02;Belanja Bagi Hasil Pajak Daerah Kepada Pemerintahan Kota;5
+5.4.01.01.03;Belanja Bagi Hasil Pajak Daerah Kepada Pemerintahan Desa;5
+5.4.01.02;Belanja Bagi Hasil Retribusi Daerah Kabupaten/Kota Kepada Pemerintah Desa;4
+5.4.01.02.01;Belanja Bagi Hasil Retribusi Daerah Kabupaten/Kota Kepada Pemerintah Desa;5
+5.4.02;Belanja Bantuan Keuangan;3
+5.4.02.01;Belanja Bantuan Keuangan antar Daerah Provinsi;4
+5.4.02.01.01;Belanja Bantuan Keuangan Umum antar Daerah Provinsi;5
+5.4.02.01.02;Belanja Bantuan Keuangan Khusus antar Daerah Provinsi;5
+5.4.02.02;Belanja Bantuan Keuangan antar Daerah Kabupaten/Kota;4
+5.4.02.02.01;Belanja Bantuan Keuangan Umum antar Daerah Kabupaten/Kota;5
+5.4.02.02.02;Belanja Bantuan Keuangan Khusus kepada Pemerintah Kabupaten/Kota;5
+5.4.02.03;Belanja Bantuan Keuangan Daerah Provinsi ke Kabupaten/Kota;4
+5.4.02.03.01;Belanja Bantuan Keuangan Umum Daerah Provinsi ke Kabupaten/Kota;5
+5.4.02.03.02;Belanja Bantuan Keuangan Khusus Daerah Provinsi ke Kabupaten/Kota;5
+5.4.02.04;Belanja Bantuan Keuangan Kabupaten/Kota ke Daerah Provinsi;4
+5.4.02.04.01;Belanja Bantuan Keuangan Umum Daerah Kabupaten/Kota ke Provinsi;5
+5.4.02.04.02;Belanja Bantuan Keuangan Khusus Daerah Kabupaten/Kota ke Provinsi;5
+5.4.02.05;Belanja Bantuan Keuangan Daerah Provinsi atau Kabupaten/Kota kepada Desa;4
+5.4.02.05.01;Belanja Bantuan Keuangan Umum Daerah Provinsi atau Kabupaten/Kota kepada Desa;5
+5.4.02.05.02;Belanja Bantuan Keuangan Khusus Daerah Provinsi atau Kabupaten/Kota kepada Desa;5
+5.4.02.06;Belanja Transfer Dana Otonomi Khusus Provinsi kepada Kabupaten/Kota;4
+5.4.02.06.01;Belanja Transfer Dana Otonomi Khusus Provinsi kepada Kabupaten/Kota;5
+4;PENDAPATAN DAERAH;1
+4,1;PENDAPATAN ASLI DAERAH (PAD);2
+4.1.01;Pajak Daerah;3
+4.1.01.01;Pajak Kendaraan Bermotor (PKB);4
+4.1.01.01.01;PKB-Mobil Penumpang-Sedan;5
+4.1.01.01.02;PKB-Mobil Penumpang-Jeep;5
+4.1.01.01.03;PKB-Mobil Penumpang-Minibus;5
+4.1.01.01.04;PKB-Mobil Bus-Microbus;5
+4.1.01.01.05;PKB-Mobil Bus-Bus;5
+4.1.01.01.06;PKB-Mobil Barang/Beban-Pick Up;5
+4.1.01.01.07;PKB-Mobil Barang/Beban-Light Truck;5
+4.1.01.01.08;PKB-Mobil Barang/Beban-Truck;5
+4.1.01.01.09;PKB-Mobil Barang/Beban-Blind Van;5
+4.1.01.01.10;PKB-Sepeda Motor-Sepeda Motor Roda Dua;5
+4.1.01.01.11;PKB-Sepeda Motor-Sepeda Motor Roda Tiga;5
+4.1.01.01.12;PKB-Kendaraan Bermotor yang Dioperasikan di Air;5
+4.1.01.01.13;PKB-Kendaraan Khusus Alat Berat/Alat Besar;5
+4.1.01.01.14;PKB-Mobil Roda Tiga;5
+4.1.01.02;Bea Balik Nama Kendaraan Bermotor (BBNKB);4
+4.1.01.02.01;BBNKB-Mobil Penumpang-Sedan;5
+4.1.01.02.02;BBNKB-Mobil Penumpang-Jeep;5
+4.1.01.02.03;BBNKB-Mobil Penumpang-Minibus;5
+4.1.01.02.04;BBNKB-Mobil Bus-Microbus;5
+4.1.01.02.05;BBNKB-Mobil Bus-Bus;5
+4.1.01.02.06;BBNKB-Mobil Barang/Beban-Pick Up;5
+4.1.01.02.07;BBNKB-Mobil Barang/Beban-Light Truck;5
+4.1.01.02.08;BBNKB-Mobil Barang/Beban-Truck;5
+4.1.01.02.09;BBNKB-Mobil Barang/Beban-Blind Van;5
+4.1.01.02.10;BBNKB-Sepeda Motor-Sepeda Motor Roda Dua;5
+4.1.01.02.11;BBNKB-Sepeda Motor-Sepeda Motor Roda Tiga;5
+4.1.01.02.12;BBNKB-Kendaraan Bermotor yang Dioperasikan di Air;5
+4.1.01.02.13;BBNKB-Kendaraan Khusus Alat Berat;5
+4.1.01.02.14;BBNKB-Mobil Roda Tiga;5
+4.1.01.03;Pajak Bahan Bakar Kendaraan Bermotor (PBBKB);4
+4.1.01.03.01;PBBKB-Bahan Bakar Bensin;5
+4.1.01.03.02;PBBKB-Bahan Bakar Solar;5
+4.1.01.03.03;PBBKB-Bahan Bakar Gas;5
+4.1.01.03.04;PBBKB-Bahan Bakar Lainnya;5
+4.1.01.04;Pajak Air Permukaan;4
+4.1.01.04.01;Pajak Air Permukaan;5
+4.1.01.05;Pajak Rokok;4
+4.1.01.05.01;Pajak Rokok;5
+4.1.01.06;Pajak Hotel;4
+4.1.01.06.01;Pajak Hotel;5
+4.1.01.06.02;Pajak Motel;5
+4.1.01.06.03;Pajak Losmen;5
+4.1.01.06.04;Pajak Gubuk Pariwisata;5
+4.1.01.06.05;Pajak Wisma Pariwisata;5
+4.1.01.06.06;Pajak Pesanggrahan;5
+4.1.01.06.07;Pajak Rumah Penginapan dan Sejenisnya;5
+4.1.01.06.08;Pajak Rumah Kos dengan Jumlah Kamar Lebih dari 10 (Sepuluh);5
+4.1.01.07;Pajak Restoran;4
+4.1.01.07.01;Pajak Restoran dan Sejenisnya;5
+4.1.01.07.02;Pajak Rumah Makan dan Sejenisnya;5
+4.1.01.07.03;Pajak Kafetaria dan Sejenisnya;5
+4.1.01.07.04;Pajak Kantin dan Sejenisnya;5
+4.1.01.07.05;Pajak Warung dan Sejenisnya;5
+4.1.01.07.06;Pajak Bar dan Sejenisnya;5
+4.1.01.07.07;Pajak Jasa Boga/Katering dan Sejenisnya;5
+4.1.01.08;Pajak Hiburan;4
+4.1.01.08.01;Pajak Tontonan Film;5
+4.1.01.08.02;Pajak Pagelaran Kesenian/Musik/Tari/ Busana;5
+4.1.01.08.03;Pajak Kontes Kecantikan, Binaraga, dan Sejenisnya;5
+4.1.01.08.04;Pajak Pameran;5
+4.1.01.08.05;Pajak Diskotik, Karaoke, Klub Malam, dan Sejenisnya;5
+4.1.01.08.06;Pajak Sirkus/Akrobat/Sulap;5
+4.1.01.08.07;Pajak Permainan Biliar dan Bowling;5
+4.1.01.08.08;Pajak Pacuan Kuda, Kendaraan Bermotor, dan Permainan Ketangkasan;5
+4.1.01.08.09;Pajak Panti Pijat, Refleksi, Mandi Uap/Spa dan Pusat Kebugaran (Fitness Center);5
+4.1.01.08.10;Pajak Pertandingan Olahraga;5
+4.1.01.09;Pajak Reklame;4
+4.1.01.09.01;Pajak Reklame Papan/Billboard/Videotron/ Megatron;5
+4.1.01.09.02;Pajak Reklame Kain;5
+4.1.01.09.03;Pajak Reklame Melekat/Stiker;5
+4.1.01.09.04;Pajak Reklame Selebaran;5
+4.1.01.09.05;Pajak Reklame Berjalan;5
+4.1.01.09.06;Pajak Reklame Udara;5
+4.1.01.09.07;Pajak Reklame Apung;5
+4.1.01.09.08;Pajak Reklame Suara;5
+4.1.01.09.09;Pajak Reklame Film/Slide;5
+4.1.01.09.10;Pajak Reklame Peragaan;5
+4.1.01.10;Pajak Penerangan Jalan;4
+4.1.01.10.01;Pajak Penerangan Jalan Dihasilkan Sendiri;5
+4.1.01.10.02;Pajak Penerangan Jalan Sumber Lain;5
+4.1.01.11;Pajak Parkir;4
+4.1.01.11.01;Pajak Parkir;5
+4.1.01.12;Pajak Air Tanah;4
+4.1.01.12.01;Pajak Air Tanah;5
+4.1.01.13;Pajak Sarang Burung Walet;4
+4.1.01.13.01;Pajak Sarang Burung Walet;5
+4.1.01.14;Pajak Mineral Bukan Logam dan Batuan;4
+4.1.01.14.01;Pajak Asbes;5
+4.1.01.14.02;Pajak Batu Tulis;5
+4.1.01.14.03;Pajak Batu Setengah Permata;5
+4.1.01.14.04;Pajak Batu Kapur;5
+4.1.01.14.05;Pajak Batu Apung;5
+4.1.01.14.06;Pajak Batu Permata;5
+4.1.01.14.07;Pajak Bentonit;5
+4.1.01.14.08;Pajak Dolomit;5
+4.1.01.14.09;Pajak Felspar;5
+4.1.01.14.10;Pajak Garam Batu (Halite);5
+4.1.01.14.11;Pajak Grafit;5
+4.1.01.14.12;Pajak Granit/Andesit;5
+4.1.01.14.13;Pajak Gips;5
+4.1.01.14.14;Pajak Kalsit;5
+4.1.01.14.15;Pajak Kaolin;5
+4.1.01.14.16;Pajak Leusit;5
+4.1.01.14.17;Pajak Magnesit;5
+4.1.01.14.18;Pajak Mika;5
+4.1.01.14.19;Pajak Marmer;5
+4.1.01.14.20;Pajak Nitrat;5
+4.1.01.14.21;Pajak Opsidien;5
+4.1.01.14.22;Pajak Oker;5
+4.1.01.14.23;Pajak Pasir dan Kerikil;5
+4.1.01.14.24;Pajak Pasir Kuarsa;5
+4.1.01.14.25;Pajak Perlit;5
+4.1.01.14.26;Pajak Phospat;5
+4.1.01.14.27;Pajak Talk;5
+4.1.01.14.28;Pajak Tanah Serap (Fullers Earth);5
+4.1.01.14.29;Pajak Tanah Diatome;5
+4.1.01.14.30;Pajak Tanah Liat;5
+4.1.01.14.31;Pajak Tawas (Alum);5
+4.1.01.14.32;Pajak Tras;5
+4.1.01.14.33;Pajak Yarosif;5
+4.1.01.14.34;Pajak Zeolit;5
+4.1.01.14.35;Pajak Basal;5
+4.1.01.14.36;Pajak Trakit;5
+4.1.01.14.37;Pajak Mineral bukan Logam dan Batuan Lainnya;5
+4.1.01.15;Pajak Bumi dan Bangunan Perdesaan dan Perkotaan (PBBP2);4
+4.1.01.15.01;PBBP2;5
+4.1.01.16;Bea Perolehan Hak Atas Tanah dan Bangunan (BPHTB);4
+4.1.01.16.01;BPHTB-Pemindahan Hak;5
+4.1.01.16.02;BPHTB-Pemberian Hak Baru;5
+4.1.02;Retribusi Daerah;3
+4.1.02.01;Retribusi Jasa Umum;4
+4.1.02.01.01;Retribusi Pelayanan Kesehatan;5
+4.1.02.01.02;Retribusi Pelayanan Persampahan/ Kebersihan;5
+4.1.02.01.03;Retribusi Pelayanan Pemakaman dan Pengabuan Mayat;5
+4.1.02.01.04;Retribusi Pelayanan Parkir di Tepi Jalan Umum;5
+4.1.02.01.05;Retribusi Pelayanan Pasar;5
+4.1.02.01.06;Retribusi Pengujian Kendaraan Bermotor;5
+4.1.02.01.07;Retribusi Pemeriksaan Alat Pemadam Kebakaran;5
+4.1.02.01.08;Retribusi Penggantian Biaya Cetak Peta;5
+4.1.02.01.09;Retribusi Penyediaan dan/atau Penyedotan Kakus;5
+4.1.02.01.10;Retribusi Pengolahan Limbah Cair;5
+4.1.02.01.11;Retribusi Pelayanan Tera/Tera Ulang;5
+4.1.02.01.12;Retribusi Pelayanan Pendidikan;5
+4.1.02.01.13;Retribusi Pengawasan dan Pengendalian Menara Telekomunikasi;5
+4.1.02.02;Retribusi Jasa Usaha;4
+4.1.02.02.01;Retribusi Pemakaian Kekayaan Daerah;5
+4.1.02.02.02;Retribusi Pasar Grosir dan/atau Pertokoan;5
+4.1.02.02.03;Retribusi Tempat Pelelangan;5
+4.1.02.02.04;Retribusi Terminal;5
+4.1.02.02.05;Retribusi Tempat Khusus Parkir;5
+4.1.02.02.06;Retribusi Tempat Penginapan/ Pesanggrahan/Vila;5
+4.1.02.02.07;Retribusi Rumah Potong Hewan;5
+4.1.02.02.08;Retribusi Pelayanan Kepelabuhanan;5
+4.1.02.02.09;Retribusi Tempat Rekreasi dan Olahraga;5
+4.1.02.02.10;Retribusi Penyeberangan di Air;5
+4.1.02.02.11;Retribusi Penjualan Produksi Usaha Daerah;5
+4.1.02.03;Retribusi Perizinan Tertentu;4
+4.1.02.03.01;Retribusi Izin Mendirikan Bangunan;5
+4.1.02.03.02;Retribusi Izin Tempat Penjualan Minuman Beralkohol;5
+4.1.02.03.03;Retribusi Izin Trayek untuk Menyediakan Pelayanan Angkutan Umum;5
+4.1.02.03.04;Retribusi Izin Usaha Perikanan;5
+4.1.02.03.05;Retribusi Pengendalian Lalu Lintas;5
+4.1.02.03.06;Retribusi Perpanjangan Izin Mempekerjakan Tenaga Kerja Asing (IMTA);5
+4.1.02.03.07;Retribusi Persetujuan Bangunan Gedung;5
+4.1.02.03.08;Retribusi Penggunaan Tenaga Kerja Asing (TKA);5
+4.1.02.03.09;Retribusi Pertambangan Rakyat;5
+4.1.03;Hasil Pengelolaan Kekayaan Daerah yang Dipisahkan;3
+4.1.03.01;Bagian Laba yang Dibagikan kepada Pemerintah Daerah (Dividen) atas Penyertaan Modal pada BUMN;4
+4.1.03.01.01;Bagian Laba yang Dibagikan kepada Pemerintah Daerah (Dividen) atas Penyertaan Modal pada BUMN;5
+4.1.03.02;Bagian Laba yang Dibagikan kepada Pemerintah Daerah (Dividen) atas Penyertaan Modal pada BUMD;4
+4.1.03.02.01;Bagian Laba yang Dibagikan kepada Pemerintah Daerah (Dividen) atas Penyertaan Modal pada BUMD (Lembaga Keuangan);5
+4.1.03.02.02;Bagian Laba yang Dibagikan kepada Pemerintah Daerah (Dividen) atas Penyertaan Modal pada BUMD (Aneka Usaha);5
+4.1.03.02.03;Bagian Laba yang Dibagikan kepada Pemerintah Daerah (Dividen) atas Penyertaan Modal pada BUMD (Bidang Air Minum);5
+4.1.03.02.04;Bagian Laba yang Dibagikan kepada Pemerintah Daerah (Dividen) atas Penyertaan Modal pada BUMD (Bidang Limbah);5
+4.1.03.02.05;Bagian Laba yang Dibagikan kepada Pemerintah Daerah (Dividen) atas Penyertaan Modal pada BUMD (Bidang Sanitasi);5
+4.1.03.03;Bagian Laba yang dibagikan kepada Pemerintah Daerah (Dividen) atas Penyertaan Modal pada Perusahaan Milik Swasta;4
+4.1.03.03.01;Bagian Laba yang Dibagikan kepada Pemerintah Daerah (Dividen) atas Penyertaan Modal pada Perusahaan Milik Swasta;5
+4.1.04;Lain-lain PAD yang Sah;3
+4.1.04.01;Hasil Penjualan BMD yang Tidak Dipisahkan;4
+4.1.04.01.01;Hasil Penjualan Tanah;5
+4.1.04.01.02;Hasil Penjualan Peralatan dan Mesin;5
+4.1.04.01.03;Hasil Penjualan Gedung dan Bangunan;5
+4.1.04.01.04;Hasil Penjualan Jalan, Jaringan, dan Irigasi;5
+4.1.04.01.05;Hasil Penjualan Aset Tetap Lainnya;5
+4.1.04.01.06;Hasil Penjualan Aset Lainnya;5
+4.1.04.01.07;Hasil Penjualan Aset Tidak Berwujud;5
+4.1.04.01.08;Hasil Penjualan Aset Lain-Lain;5
+4.1.04.02;Hasil Selisih Lebih Tukar Menukar BMD yang Tidak Dipisahkan;4
+4.1.04.02.01;Hasil Selisih Lebih Tukar Menukar Tanah;5
+4.1.04.02.02;Hasil Selisih Lebih Tukar Menukar Peralatan dan Mesin;5
+4.1.04.02.03;Hasil Selisih Lebih Tukar Menukar Gedung dan Bangunan;5
+4.1.04.02.04;Hasil Selisih Lebih Tukar Menukar Jalan, Jaringan, dan Irigasi;5
+4.1.04.02.05;Hasil Selisih Lebih Tukar Menukar Aset Tetap Lainnya;5
+4.1.04.02.06;Hasil Selisih Lebih Tukar Menukar Aset Lainnya;5
+4.1.04.02.07;Hasil Selisih Lebih Tukar Menukar Aset Tidak Berwujud;5
+4.1.04.02.08;Hasil Selisih Lebih Tukar Menukar Aset Lain-Lain;5
+4.1.04.03;Hasil Pemanfaatan BMD yang Tidak Dipisahkan;4
+4.1.04.03.01;Hasil Sewa BMD;5
+4.1.04.03.02;Hasil Kerja Sama Pemanfaatan BMD;5
+4.1.04.03.03;Hasil dari Bangun Guna Serah;5
+4.1.04.03.04;Hasil dari Bangun Serah Guna;5
+4.1.04.03.05;Hasil dari Kerja Sama Penyediaan Infrastruktur;5
+4.1.04.04;Hasil Kerja Sama Daerah;4
+4.1.04.04.01;Hasil Kerja Sama Daerah;5
+4.1.04.05;Jasa Giro;4
+4.1.04.05.01;Jasa Giro pada Kas Daerah;5
+4.1.04.05.02;Jasa Giro pada Kas di Bendahara;5
+4.1.04.05.03;Jasa Giro pada Rekening Dana Cadangan;5
+4.1.04.05.04;Jasa Giro pada Rekening Dana BOS;5
+4.1.04.05.05;Jasa Giro Dana Kapitasi pada FKTP;5
+4.1.04.05.06;Pendapatan Jasa Giro pada Rekening Dana BOSP;5
+4.1.04.05.07;Pendapatan Jasa Giro pada Rekening Dana BOK Puskesmas;5
+4.1.04.06;Hasil Pengelolaan Dana Bergulir;4
+4.1.04.06.01;Hasil Pengelolaan Dana Bergulir;5
+4.1.04.07;Pendapatan Bunga;4
+4.1.04.07.01;Pendapatan Bunga atas Penempatan Uang Pemerintah Daerah;5
+4.1.04.08;Penerimaan atas Tuntutan Ganti Kerugian Keuangan Daerah;4
+4.1.04.08.01;Tuntutan Ganti Kerugian Daerah terhadap Bendahara;5
+4.1.04.08.02;Tuntutan Ganti Kerugian Daerah terhadap Pegawai Negeri Bukan Bendahara atau Pejabat Lain;5
+4.1.04.09;Penerimaan Komisi, Potongan, atau Bentuk Lain;4
+4.1.04.09.01;Penerimaan Komisi, Potongan, atau Bentuk Lain;5
+4.1.04.10;Penerimaan Keuntungan dari Selisih Nilai Tukar Rupiah terhadap Mata Uang Asing;4
+4.1.04.10.01;Penerimaan Keuntungan dari Selisih Nilai Tukar Rupiah terhadap Mata Uang Asing;5
+4.1.04.11;Pendapatan Denda atas Keterlambatan Pelaksanaan Pekerjaan;4
+4.1.04.11.01;Pendapatan Denda atas Keterlambatan Pelaksanaan Pekerjaan;5
+4.1.04.12;Pendapatan Denda Pajak Daerah;4
+4.1.04.12.01;Pendapatan Denda Pajak Kendaraan Bermotor (PKB);5
+4.1.04.12.02;Pendapatan Denda Bea Balik Nama Kendaraan Bermotor (BBNKB);5
+4.1.04.12.03;Pendapatan Denda Pajak Bahan Bakar Kendaraan Bermotor (PBBKB);5
+4.1.04.12.04;Pendapatan Denda Pajak Air Permukaan;5
+4.1.04.12.05;Pendapatan Denda Pajak Rokok;5
+4.1.04.12.06;Pendapatan Denda Pajak Hotel;5
+4.1.04.12.07;Pendapatan Denda Pajak Restoran;5
+4.1.04.12.08;Pendapatan Denda Pajak Hiburan;5
+4.1.04.12.09;Pendapatan Denda Pajak Reklame;5
+4.1.04.12.10;Pendapatan Denda Pajak Penerangan Jalan;5
+4.1.04.12.11;Pendapatan Denda Pajak Parkir;5
+4.1.04.12.12;Pendapatan Denda Pajak Air Tanah;5
+4.1.04.12.13;Pendapatan Denda Pajak Sarang Burung Walet;5
+4.1.04.12.14;Pendapatan Denda Pajak Mineral Bukan Logam dan Batuan;5
+4.1.04.12.15;Pendapatan Denda Pajak Bumi dan Bangunan Perdesaan dan Perkotaan (PBBP2);5
+4.1.04.12.16;Pendapatan Denda Bea Perolehan Hak atas Tanah dan Bangunan (BPHTB);5
+4.1.04.13;Pendapatan Denda Retribusi Daerah;4
+4.1.04.13.01;Pendapatan Denda Retribusi Jasa Umum;5
+4.1.04.13.02;Pendapatan Denda Retribusi Jasa Usaha;5
+4.1.04.13.03;Pendapatan Denda Retribusi Perizinan Tertentu;5
+4.1.04.14;Pendapatan Hasil Eksekusi atas Jaminan;4
+4.1.04.14.01;Hasil Eksekusi atas Jaminan atas Pengadaan Barang/Jasa;5
+4.1.04.15;Pendapatan dari Pengembalian;4
+4.1.04.15.01;Pendapatan dari Pengembalian Kelebihan Pembayaran Pajak Penghasilan Pasal 21;5
+4.1.04.15.02;Pendapatan dari Pengembalian Kelebihan Pembayaran Iuran Simpanan Peserta Tabungan Perumahan Rakyat ASN;5
+4.1.04.15.03;Pendapatan dari Pengembalian Kelebihan Pembayaran Gaji dan Tunjangan;5
+4.1.04.15.04;Pendapatan dari Pengembalian Kelebihan Pembayaran Perjalanan Dinas;5
+4.1.04.15.05;Pendapatan dari Pengembalian Kelebihan Pembayaran Jaminan Kecelakaan Kerja (JKK);5
+4.1.04.15.06;Pendapatan dari Pengembalian Kelebihan Pembayaran Jaminan Kematian (JKM);5
+4.1.04.15.07;Pendapatan dari Pengembalian Kelebihan Pembayaran Jaminan Kesehatan Nasional (JKN);5
+4.1.04.15.08;Pendapatan dari Pengembalian Kelebihan Pembayaran Belanja Gaji dan Tunjangan ASN;5
+4.1.04.15.09;Pendapatan dari Pengembalian Kelebihan Pembayaran Belanja Tambahan Penghasilan ASN;5
+4.1.04.15.10;Pendapatan dari Pengembalian Kelebihan Pembayaran Belanja Tambahan Penghasilan berdasarkan Pertimbangan Objektif Lainnya ASN;5
+4.1.04.15.11;Pendapatan dari Pengembalian Kelebihan Pembayaran Belanja Gaji dan Tunjangan DPRD;5
+4.1.04.15.12;Pendapatan dari Pengembalian Kelebihan Pembayaran Belanja Gaji dan Tunjangan KDH/WKDH;5
+4.1.04.15.13;Pendapatan dari Pengembalian Kelebihan Pembayaran Belanja Penerimaan Lainnya Pimpinan DPRD serta KDH/WKDH;5
+4.1.04.15.14;Pendapatan dari Pengembalian Kelebihan Pembayaran Belanja Gaji dan Tunjangan MRP;5
+4.1.04.15.15;Pendapatan dari Pengembalian Kelebihan Pembayaran Belanja Barang;5
+4.1.04.15.16;Pendapatan dari Pengembalian Kelebihan Pembayaran Belanja Jasa;5
+4.1.04.15.17;Pendapatan dari Pengembalian Kelebihan Pembayaran Belanja Pemeliharaan;5
+4.1.04.15.18;Pendapatan dari Pengembalian Kelebihan Pembayaran Belanja Uang dan/atau Jasa untuk Diberikan kepada Pihak Ketiga/Pihak Lain/Masyarakat;5
+4.1.04.15.19;Pendapatan dari Pengembalian Kelebihan Pembayaran Belanja Penunjang Otonomi Khusus*);5
+4.1.04.15.20;Pendapatan dari Pengembalian Kelebihan Pembayaran Belanja Bunga Utang Pinjaman kepada Pemerintah Pusat;5
+4.1.04.15.21;Pendapatan dari Pengembalian Kelebihan Pembayaran Belanja Bunga Utang Pinjaman kepada Pemerintah Daerah Lain;5
+4.1.04.15.22;Pendapatan dari Pengembalian Kelebihan Pembayaran Belanja Bunga Utang Pinjaman kepada Lembaga Keuangan Bank (LKB);5
+4.1.04.15.23;Pendapatan dari Pengembalian Kelebihan Pembayaran Belanja Bunga Utang Pinjaman kepada Lembaga Keuangan Bukan Bank (LKBB);5
+4.1.04.15.24;Pendapatan dari Pengembalian Kelebihan Pembayaran Belanja Bunga Utang Kepada Masyarakat (Obligasi);5
+4.1.04.15.25;Pendapatan dari Pengembalian Kelebihan Pembayaran Belanja Bunga Utang Pinjaman melalui BLUD;5
+4.1.04.15.26;Pendapatan dari Pengembalian Kelebihan Pembayaran Belanja Subsidi kepada BUMN;5
+4.1.04.15.27;Pendapatan dari Pengembalian Kelebihan Pembayaran Belanja Subsidi kepada BUMD;5
+4.1.04.15.28;Pendapatan dari Pengembalian Kelebihan Pembayaran Belanja Subsidi kepada Badan Usaha Milik Swasta;5
+4.1.04.15.29;Pendapatan dari Pengembalian Kelebihan Pembayaran Belanja Subsidi kepada Koperasi;5
+4.1.04.15.30;Pendapatan dari Pengembalian Kelebihan Pembayaran Belanja Hibah kepada Pemerintah Pusat;5
+4.1.04.15.31;Pendapatan dari Pengembalian Kelebihan Pembayaran Belanja Hibah kepada Pemerintah Daerah Lainnya;5
+4.1.04.15.32;Pendapatan dari Pengembalian Kelebihan Pembayaran Belanja Hibah kepada BUMN;5
+4.1.04.15.33;Pendapatan dari Pengembalian Kelebihan Pembayaran Belanja Hibah kepada BUMD;5
+4.1.04.15.34;Pendapatan dari Pengembalian Kelebihan Pembayaran Belanja Hibah kepada Badan, Lembaga, Organisasi Kemasyarakatan yang Berbadan Hukum Indonesia;5
+4.1.04.15.35;Pendapatan dari Pengembalian Kelebihan Pembayaran Belanja Hibah Dana BOS;5
+4.1.04.15.36;Pendapatan dari Pengembalian Kelebihan Pembayaran Belanja Hibah Bantuan Keuangan kepada Partai Politik;5
+4.1.04.15.37;Pendapatan dari Pengembalian Kelebihan Pembayaran Belanja Bantuan Sosial kepada Individu;5
+4.1.04.15.38;Pendapatan dari Pengembalian Kelebihan Pembayaran Belanja Bantuan Sosial kepada Keluarga;5
+4.1.04.15.39;Pendapatan dari Pengembalian Kelebihan Pembayaran Belanja Bantuan Sosial kepada Kelompok Masyarakat;5
+4.1.04.15.40;Pendapatan dari Pengembalian Kelebihan Pembayaran Belanja Bantuan Sosial Bantuan Sosial kepada Lembaga Non Pemerintahan (Bidang Pendidikan, Keagamaan dan Bidang Lainnya);5
+4.1.04.15.41;Pendapatan dari Pengembalian Kelebihan Pembayaran Belanja Modal Tanah;5
+4.1.04.15.42;Pendapatan dari Pengembalian Kelebihan Pembayaran Belanja Modal Peralatan dan Mesin-Alat Besar;5
+4.1.04.15.43;Pendapatan dari Pengembalian Kelebihan Pembayaran Belanja Modal Peralatan dan Mesin-Alat Angkutan;5
+4.1.04.15.44;Pendapatan dari Pengembalian Kelebihan Pembayaran Belanja Modal Peralatan dan Mesin-Alat Bengkel dan Alat Ukur;5
+4.1.04.15.45;Pendapatan dari Pengembalian Kelebihan Pembayaran Belanja Modal Peralatan dan Mesin-Alat Pertanian;5
+4.1.04.15.46;Pendapatan dari Pengembalian Kelebihan Pembayaran Belanja Modal Peralatan dan Mesin-Alat Kantor dan Rumah Tangga;5
+4.1.04.15.47;Pendapatan dari Pengembalian Kelebihan Pembayaran Belanja Modal Peralatan dan Mesin-Alat Studio, Komunikasi, dan Pemancar;5
+4.1.04.15.48;Pendapatan dari Pengembalian Kelebihan Pembayaran Belanja Modal Peralatan dan Mesin-Alat Kedokteran dan Kesehatan;5
+4.1.04.15.49;Pendapatan dari Pengembalian Kelebihan Pembayaran Belanja Modal Peralatan dan Mesin-Alat Laboratorium;5
+4.1.04.15.51;Pendapatan dari Pengembalian Kelebihan Pembayaran Belanja Modal Peralatan dan Mesin-Komputer;5
+4.1.04.15.52;Pendapatan dari Pengembalian Kelebihan Pembayaran Belanja Modal Peralatan dan Mesin-Alat Eksplorasi;5
+4.1.04.15.53;Pendapatan dari Pengembalian Kelebihan Pembayaran Belanja Modal Peralatan dan Mesin-Alat Pengeboran;5
+4.1.04.15.54;Pendapatan dari Pengembalian Kelebihan Pembayaran Belanja Modal Peralatan dan Mesin-Alat Produksi, Pengolahan, dan Pemurnian;5
+4.1.04.15.55;Pendapatan dari Pengembalian Kelebihan Pembayaran Belanja Modal Peralatan dan Mesin-Alat Bantu Eksplorasi;5
+4.1.04.15.56;Pendapatan dari Pengembalian Kelebihan Pembayaran Belanja Modal Peralatan dan Mesin-Alat Keselamatan Kerja;5
+4.1.04.15.57;Pendapatan dari Pengembalian Kelebihan Pembayaran Belanja Modal Peralatan dan Mesin-Alat Peraga;5
+4.1.04.15.58;Pendapatan dari Pengembalian Kelebihan Pembayaran Belanja Modal Peralatan dan Mesin-Peralatan Proses/Produksi;5
+4.1.04.15.59;Pendapatan dari Pengembalian Kelebihan Pembayaran Belanja Modal Peralatan dan Mesin-Rambu-Rambu;5
+4.1.04.15.60;Pendapatan dari Pengembalian Kelebihan Pembayaran Belanja Modal Peralatan dan Mesin-Peralatan Olahraga;5
+4.1.04.15.61;Pendapatan dari Pengembalian Kelebihan Pembayaran Belanja Modal Gedung dan Bangunan-Bangunan Gedung;5
+4.1.04.15.62;Pendapatan dari Pengembalian Kelebihan Pembayaran Belanja Modal Gedung dan Bangunan-Monumen;5
+4.1.04.15.63;Pendapatan dari Pengembalian Kelebihan Pembayaran Belanja Modal Gedung dan Bangunan-Bangunan Menara;5
+4.1.04.15.64;Pendapatan dari Pengembalian Kelebihan Pembayaran Belanja Modal Gedung dan Bangunan-Tugu Titik Kontrol/Pasti;5
+4.1.04.15.65;Pendapatan dari Pengembalian Kelebihan Pembayaran Belanja Modal Jalan, Jaringan, dan Irigasi-Jalan dan Jembatan;5
+4.1.04.15.66;Pendapatan dari Pengembalian Kelebihan Pembayaran Belanja Modal Jalan, Jaringan, dan Irigasi-Bangunan Air;5
+4.1.04.15.67;Pendapatan dari Pengembalian Kelebihan Pembayaran Belanja Jalan, Jaringan, dan Instalasi-Instalasi;5
+4.1.04.15.68;Pendapatan dari Pengembalian Kelebihan Pembayaran Belanja Modal Jalan, Jaringan, dan Irigasi-Jaringan;5
+4.1.04.15.69;Pendapatan dari Pengembalian Kelebihan Pembayaran Belanja Modal Aset Tetap Lainnya-Bahan Perpustakaan;5
+4.1.04.15.70;Pendapatan dari Pengembalian Kelebihan Pembayaran Belanja Modal Aset Tetap Lainnya-Barang Bercorak Kesenian/Kebudayaan/Olahraga;5
+4.1.04.15.71;Pendapatan dari Pengembalian Kelebihan Pembayaran Belanja Modal Aset Tetap Lainnya-Hewan;5
+4.1.04.15.72;Pendapatan dari Pengembalian Kelebihan Pembayaran Belanja Modal Aset Tetap Lainnya-Biota Perairan;5
+4.1.04.15.73;Pendapatan dari Pengembalian Kelebihan Pembayaran Belanja Modal Aset Tetap Lainnya-Tanaman;5
+4.1.04.15.74;Pendapatan dari Pengembalian Kelebihan Pembayaran Belanja Modal Aset Tetap Lainnya-Barang Koleksi Non Budaya;5
+4.1.04.15.75;Pendapatan dari Pengembalian Kelebihan Pembayaran Belanja Modal Aset Tetap Lainnya-Aset Tetap dalam Renovasi;5
+4.1.04.15.76;Pendapatan dari Pengembalian Kelebihan Pembayaran Belanja Modal Aset Lainnya-Aset Tidak Berwujud;5
+4.1.04.15.77;Pendapatan dari Pengembalian Kelebihan Pembayaran Belanja Tidak Terduga;5
+4.1.04.15.78;Pendapatan dari Pengembalian Kelebihan Pembayaran Belanja Bagi Hasil Pajak Daerah Kepada Pemerintahan Kabupaten/Kota dan Desa;5
+4.1.04.15.79;Pendapatan dari Pengembalian Kelebihan Pembayaran Belanja Bagi Hasil Retribusi Daerah Kabupaten/Kota Kepada Pemerintah Desa;5
+4.1.04.15.80;Pendapatan dari Pengembalian Kelebihan Pembayaran Belanja Bantuan Keuangan antar Daerah Provinsi;5
+4.1.04.15.81;Pendapatan dari Pengembalian Kelebihan Pembayaran Belanja Bantuan Keuangan antar Daerah Kabupaten/Kota;5
+4.1.04.15.82;Pendapatan dari Pengembalian Kelebihan Pembayaran Belanja Bantuan Keuangan Daerah Provinsi ke Kabupaten/Kota;5
+4.1.04.15.83;Pendapatan dari Pengembalian Kelebihan Pembayaran Belanja Bantuan Keuangan Kabupaten/Kota ke Daerah Provinsi;5
+4.1.04.15.84;Pendapatan dari Pengembalian Kelebihan Pembayaran Belanja Bantuan Keuangan Daerah Provinsi atau Kabupaten/Kota kepada Desa;5
+4.1.04.15.85;Pendapatan dari Pengembalian Kelebihan Pembayaran Belanja Transfer Dana Otonomi Khusus Provinsi kepada Kabupaten/Kota;5
+4.1.04.15.86;Pendapatan dari Pengembalian Kelebihan Pembayaran Belanja Gaji dan Tunjangan Perangkat Lembaga Wali Nanggroe;5
+4.1.04.15.87;Pendapatan dari Pengembalian Kelebihan Pembayaran Belanja Hibah Dana BOSP;5
+4.1.04.15.88;Pendapatan dari Pengembalian Kelebihan Pembayaran Belanja Pegawai BOS, Belanja Barang dan Jasa BOS, Belanja Modal Peralatan dan Mesin BOS, serta Belanja Modal Aset Tetap Lainnya BOS;5
+4.1.04.15.89;Pendapatan dari Pengembalian Kelebihan Pembayaran Belanja Pegawai BOSP, Belanja Barang dan Jasa BOSP, Belanja Modal Peralatan dan Mesin BOSP, dan Belanja Modal Aset Tetap Lainnya BOSP;5
+4.1.04.15.90;Pendapatan dari Pengembalian Kelebihan Pembayaran Belanja Barang dan Jasa BOK Puskesmas;5
+4.1.04.15.99;Pendapatan dari Pengembalian Kelebihan Pembayaran Belanja Pegawai BLUD, Belanja Barang dan Jasa BLUD, Belanja Modal Tanah BLUD, Belanja Modal Peralatan dan Mesin BLUD, Belanja Modal Gedung dan Bangunan BLUD, Belanja Modal Jalan, Jaringan, dan Irigasi BLUD, Belanja Modal Aset Tetap Lainnya BLUD, serta Belanja Modal Aset Lainnya BLUD;5
+4.1.04.16;Pendapatan BLUD;4
+4.1.04.16.01;Pendapatan BLUD;5
+4.1.04.16.02;Pendapatan BLUD dari Jasa Layanan;5
+4.1.04.16.03;Pendapatan BLUD dari Hibah;5
+4.1.04.16.04;Pendapatan BLUD dari Hasil Kerja Sama dengan Pihak Lain;5
+4.1.04.16.05;Pendapatan BLUD dari APBD;5
+4.1.04.16.06;Pendapatan BLUD dari Lain-Lain Pendapatan BLUD yang Sah;5
+4.1.04.17;Pendapatan Denda Pemanfaatan BMD yang tidak Dipisahkan;4
+4.1.04.17.01;Pendapatan Denda Pengakhiran Sewa BMD;5
+4.1.04.17.02;Pendapatan Denda Hasil dari Kerja Sama Penyediaan Infrastruktur;5
+4.1.04.18;Pendapatan Dana Kapitasi Jaminan Kesehatan Nasional (JKN) pada Fasilitas Kesehatan Tingkat Pertama (FKTP);4
+4.1.04.18.01;Pendapatan Dana Kapitasi JKN pada FKTP;5
+4.1.04.19;Pendapatan Hasil Pengelolaan Dana Bergulir;4
+4.1.04.19.01;Pendapatan Hasil Pengelolaan Dana Bergulir;5
+4.1.04.20;Pendapatan Berdasarkan Putusan Pengadilan (Inkracht);4
+4.1.04.20.01;Pendapatan Berdasarkan Putusan Pengadilan (Inkracht);5
+4.1.04.21;Pendapatan Denda atas Pelanggaran Peraturan Daerah;4
+4.1.04.21.01;Pendapatan Denda atas Pelanggaran Peraturan Daerah;5
+4.1.04.22;Pendapatan Zakat, Infaq, Shadaqah, dan Wakaf;4
+4.1.04.22.01;Pendapatan Zakat;5
+4.1.04.23.01;Pendapatan Hasil Pelaksanaan Perjanjian/Kontrak;5
+4,2;PENDAPATAN TRANSFER;2
+4.2.01;Pendapatan Transfer Pemerintah Pusat;3
+4.2.01.01;Dana Perimbangan;4
+4.2.01.01.01;Dana Transfer Umum-Dana Bagi Hasil (DBH);5
+4.2.01.01.02;Dana Transfer Umum-Dana Alokasi Umum (DAU);5
+4.2.01.01.03;Dana Transfer Khusus-Dana Alokasi Khusus (DAK) Fisik;5
+4.2.01.01.04;Dana Transfer Khusus-Dana Alokasi Khusus (DAK) Non Fisik;5
+4.2.01.02;Dana Insentif Daerah (DID);4
+4.2.01.02.01;DID;5
+4.2.01.03;Dana Otonomi Khusus dan Dana Tambahann Infrastruktur;4
+4.2.01.03.01;Dana Otonomi Khusus-Provinsi Papua;5
+4.2.01.03.02;Dana Otonomi Khusus-Provinsi Papua Barat;5
+4.2.01.03.03;Dana Otonomi Khusus-Provinsi Aceh;5
+4.2.01.03.04;Dana Tambahan Infrastruktur dalam rangka Otonomi Khusus Provinsi Papua;5
+4.2.01.03.05;Dana Tambahan Infrastruktur dalam rangka Otonomi Khusus Provinsi Papua Barat;5
+4.2.01.04;Dana Keistimewaan;4
+4.2.01.04.01;Dana Keistimewaan Daerah Istimewa Yogyakarta;5
+4.2.01.05;Dana Desa;4
+4.2.01.05.01;Dana Desa;5
+4.2.01.06.01;Insentif Fiskal;5
+4.2.02;Pendapatan Transfer Antar Daerah;3
+4.2.02.01;Pendapatan Bagi Hasil;4
+4.2.02.01.01;Pendapatan Bagi Hasil Pajak;5
+4.2.02.02;Bantuan Keuangan;4
+4.2.02.02.01;Bantuan Keuangan Umum dari Pemerintah Provinsi;5
+4.2.02.02.02;Bantuan Keuangan Khusus dari Pemerintah Provinsi;5
+4.2.02.02.03;Bantuan Keuangan Umum dari Pemerintah Kabupaten/Kota;5
+4.2.02.02.04;Bantuan Keuangan Khusus dari Pemerintah Kabupaten/Kota;5
+4,3;LAIN-LAIN PENDAPATAN DAERAH YANG SAH;2
+4.3.01;Pendapatan Hibah;3
+4.3.01.01;Pendapatan Hibah dari Pemerintah Pusat;4
+4.3.01.01.01;Pendapatan Hibah dari Pemerintah Pusat;5
+4.3.01.02;Pendapatan Hibah dari Pemerintah Daerah Lainnya;4
+4.3.01.02.01;Pendapatan Hibah dari Pemerintah Daerah Lainnya;5
+4.3.01.03;Pendapatan Hibah dari Kelompok Masyarakat/Perorangan Dalam Negeri;4
+4.3.01.03.01;Pendapatan Hibah dari Kelompok Masyarakat/Perorangan Dalam Negeri;5
+4.3.01.04;Pendapatan Hibah dari Badan/Lembaga/ Organisasi Dalam Negeri/Luar Negeri;4
+4.3.01.04.01;Pendapatan Hibah dari Badan/Lembaga/ Organisasi Dalam Negeri;5
+4.3.01.04.02;Pendapatan Hibah dari Badan/Lembaga/ Organisasi Luar Negeri;5
+4.3.01.04.03;Pendapatan Hibah dari Lembaga/Organisasi Swasta Dalam Negeri;5
+4.3.01.04.04;Pendapatan Hibah dari Lembaga/Organisasi Swasta Luar Negeri;5
+4.3.01.05;Sumbangan Pihak Ketiga/Sejenis;4
+4.3.01.05.01;Sumbangan Pihak Ketiga/Sejenis;5
+4.3.02;Dana Darurat;3
+4.3.02.01;Dana Darurat;4
+4.3.02.01.01;Dana Darurat;5
+4.3.03;Lain-lain Pendapatan Sesuai dengan Ketentuan Peraturan Perundang-Undangan;3
+4.3.03.01;Lain-lain Pendapatan;4
+4.3.03.01.01;Pendapatan Hibah Dana BOS;5
+4.3.03.01.02;Pendapatan atas Pengembalian Hibah;5
+4.3.03.01.03;Pendapatan atas Dana Reducing Emission from Deforestration and Forest Degradation Results Based Payment;5
+4.3.03.02;Pendapatan Dana Kapitasi JKN pada FKTP;4
+4.3.03.02.01;Pendapatan Dana Kapitasi JKN pada FKTP;5
+6;PEMBIAYAAN DAERAH;1
+6,1;PENERIMAAN PEMBIAYAAN;2
+6.1.01;Sisa Lebih Perhitungan Anggaran Tahun Sebelumnya;3
+6.1.01.01;Pelampauan Penerimaan PAD;4
+6.1.01.01.01;Pelampauan Penerimaan PAD-Pajak Daerah;5
+6.1.01.01.02;Pelampauan Penerimaan PAD-Retribusi Daerah;5
+6.1.01.01.03;Pelampauan Penerimaan PAD-Hasil Pengelolaan Kekayaan Daerah yang Dipisahkan;5
+6.1.01.01.04;Pelampauan Penerimaan PAD-Lain-lain PAD yang Sah;5
+6.1.01.02;Pelampauan Penerimaan Pendapatan Transfer;4
+6.1.01.02.01;Pelampauan Penerimaan Pendapatan Transfer-Transfer Pemerintah Pusat;5
+6.1.01.02.02;Pelampauan Penerimaan Pendapatan Transfer antar Daerah;5
+6.1.01.03;Pelampauan Penerimaan Lain-Lain Pendapatan Daerah yang Sah;4
+6.1.01.03.01;Pelampauan Penerimaan Lain-Lain Pendapatan Daerah yang Sah-Pendapatan Hibah;5
+6.1.01.03.02;Pelampauan Penerimaan Lain-Lain Pendapatan Daerah yang Sah-Dana Darurat;5
+6.1.01.03.03;Pelampauan Penerimaan Lain-Lain Pendapatan Daerah yang Sah-Lain-Lain Pendapatan Sesuai dengan Ketentuan Peraturan Perundang-Undangan;5
+6.1.01.04;Pelampauan Penerimaan Pembiayaan;4
+6.1.01.04.01;Pelampauan Penerimaan Pembiayaan-Pencairan Dana Cadangan;5
+6.1.01.04.02;Pelampauan Penerimaan Pembiayaan-Hasil Penjualan Kekayaan Daerah yang Dipisahkan;5
+6.1.01.04.03;Pelampauan Penerimaan Pembiayaan-Penerimaan Pinjaman Daerah;5
+6.1.01.04.04;Pelampauan Penerimaan Pembiayaan-Penerimaan Kembali Pemberian Pinjaman Daerah;5
+6.1.01.05;Penghematan Belanja;4
+6.1.01.05.01;Penghematan Belanja-Belanja Operasi;5
+6.1.01.05.02;Penghematan Belanja-Belanja Modal;5
+6.1.01.05.03;Sisa Penggunaan Belanja Tidak Terduga;5
+6.1.01.05.04;Sisa Belanja Transfer;5
+6.1.01.06;Kewajiban kepada Pihak Ketiga sampai dengan Akhir Tahun Belum Terselesaikan;4
+6.1.01.06.01;Uang Jaminan;5
+6.1.01.07;Sisa Dana Akibat Tidak Tercapainya Capaian Target Kinerja dan Sisa Dana Pengeluaran Pembiayaan;4
+6.1.01.07.01;Sisa Dana Akibat Tidak Tercapainya Capaian Target Kinerja;5
+6.1.01.07.02;Sisa Dana Pengeluaran Pembiayaan;5
+6.1.01.08;Sisa Belanja Lainnya;4
+6.1.01.08.01;Sisa Lebih Perhitungan Anggaran BLUD;5
+6.1.01.08.02;Sisa Dana BOS;5
+6.1.01.08.03;Sisa Dana Kapitasi;5
+6.1.01.08.04;Sisa Dana BOSP;5
+6.1.01.08.05;Sisa Dana BOK Puskesmas;5
+6.1.01.09;Penarikan Sisa Lebih Perhitungan Anggaran BLUD;4
+6.1.01.09.01;Penarikan Sisa Lebih Perhitungan Anggaran BLUD;5
+6.1.02;Pencairan Dana Cadangan;3
+6.1.02.01;Pencairan Dana Cadangan;4
+6.1.02.01.01;Pencairan Dana Cadangan;5
+6.1.03;Hasil Penjualan Kekayaan Daerah yang Dipisahkan;3
+6.1.03.01;Hasil Penjualan Kekayaan Daerah yang Dipisahkan pada Badan Usaha Milik Negara (BUMN);4
+6.1.03.01.01;Hasil Penjualan Kekayaan Daerah yang Dipisahkan pada BUMN;5
+6.1.03.02;Hasil Penjualan Kekayaan Daerah yang Dipisahkan pada Badan Usaha Milik Daerah (BUMD);4
+6.1.03.02.01;Hasil Penjualan Kekayaan Daerah yang Dipisahkan pada BUMD;5
+6.1.04;Penerimaan Pinjaman Daerah;3
+6.1.04.01;Pinjaman Daerah dari Pemerintah Pusat;4
+6.1.04.01.01;Pinjaman Daerah dari Pemerintah Pusat-Penerusan Pinjaman Dalam Negeri-Jangka Menengah;5
+6.1.04.01.02;Pinjaman Daerah dari Pemerintah Pusat-Penerusan Pinjaman Dalam Negeri-Jangka Panjang;5
+6.1.04.01.03;Pinjaman Daerah dari Pemerintah Pusat-Penerusan Pinjaman Luar Negeri-Jangka Menengah;5
+6.1.04.01.04;Pinjaman Daerah dari Pemerintah Pusat-Penerusan Pinjaman Luar Negeri-Jangka Panjang;5
+6.1.04.01.05;Pinjaman Daerah dari Pemerintah Pusat- Sumber Lainnya sesuai dengan Ketentuan Peraturan Perundang-Undangan-Jangka Menengah;5
+6.1.04.01.06;Pinjaman Daerah dari Pemerintah Pusat- Sumber Lainnya sesuai dengan Ketentuan Peraturan Perundang-undangan-Jangka Panjang;5
+6.1.04.02;Pinjaman Daerah dari Pemerintah Daerah Lain;4
+6.1.04.02.01;Pinjaman Daerah dari Pemerintah Daerah-Jangka Pendek;5
+6.1.04.03;Pinjaman Daerah dari Lembaga Keuangan Bank (LKB);4
+6.1.04.03.01;Pinjaman Daerah dari Lembaga Keuangan Bank (LKB)-BUMN-Jangka Pendek;5
+6.1.04.03.02;Pinjaman Daerah dari Lembaga Keuangan Bank (LKB)-BUMN-Jangka Menengah;5
+6.1.04.03.03;Pinjaman Daerah dari Lembaga Keuangan Bank (LKB)-BUMN-Jangka Panjang;5
+6.1.04.03.04;Pinjaman Daerah dari Lembaga Keuangan Bank (LKB)-BUMD-Jangka Pendek;5
+6.1.04.03.05;Pinjaman Daerah dari Lembaga Keuangan Bank (LKB)-BUMD-Jangka Menengah;5
+6.1.04.03.06;Pinjaman Daerah dari Lembaga Keuangan Bank (LKB)-BUMD-Jangka Panjang;5
+6.1.04.03.07;Pinjaman Daerah dari Lembaga Keuangan Bank (LKB)-Swasta-Jangka Pendek;5
+6.1.04.03.08;Pinjaman Daerah dari Lembaga Keuangan Bank (LKB)-Swasta-Jangka Menengah;5
+6.1.04.03.09;Pinjaman Daerah dari Lembaga Keuangan Bank (LKB)-Swasta-Jangka Panjang;5
+6.1.04.04;Pinjaman Daerah dari Lembaga Keuangan Bukan Bank (LKBB);4
+6.1.04.04.01;Pinjaman Daerah dari Lembaga Keuangan Bukan Bank (LKBB)-BUMN-Jangka Pendek;5
+6.1.04.04.02;Pinjaman Daerah dari Lembaga Keuangan Bukan Bank (LKBB)-BUMN-Jangka Menengah;5
+6.1.04.04.03;Pinjaman Daerah dari Lembaga Keuangan Bukan Bank (LKBB)-BUMN-Jangka Panjang;5
+6.1.04.04.04;Pinjaman Daerah dari Lembaga Keuangan Bukan Bank (LKBB)-BUMD-Jangka Pendek;5
+6.1.04.04.05;Pinjaman Daerah dari Lembaga Keuangan Bukan Bank (LKBB)-BUMD-Jangka Menengah;5
+6.1.04.04.06;Pinjaman Daerah dari Lembaga Keuangan Bukan Bank (LKBB)-BUMD-Jangka Panjang;5
+6.1.04.04.07;Pinjaman Daerah dari Lembaga Keuangan Bukan Bank (LKBB)-Swasta-Jangka Pendek;5
+6.1.04.04.08;Pinjaman Daerah dari Lembaga Keuangan Bukan Bank (LKBB)-Swasta-Jangka Menengah;5
+6.1.04.04.09;Pinjaman Daerah dari Lembaga Keuangan Bukan Bank (LKBB)-Swasta-Jangka Panjang;5
+6.1.04.05;Pinjaman Daerah dari Masyarakat;4
+6.1.04.05.01;Obligasi Daerah;5
+6.1.05;Penerimaan Kembali Pemberian Pinjaman Daerah;3
+6.1.05.01;Penerimaan Kembali Pemberian Pinjaman Daerah kepada Pemerintah Pusat;4
+6.1.05.01.01;Penerimaan Kembali Pemberian Pinjaman Daerah kepada Pemerintah Pusat;5
+6.1.05.01.02;Penerimaan Kembali Investasi dalam Proyek Pembangunan kepada Pemerintah Pusat;5
+6.1.05.02;Penerimaan Kembali Pemberian Pinjaman Daerah kepada Pemerintah Daerah Lainnya;4
+6.1.05.02.01;Penerimaan Kembali Pemberian Pinjaman Daerah kepada Pemerintah Daerah Lainnya;5
+6.1.05.02.02;Penerimaan Kembali Investasi dalam Proyek Pembangunan kepada Pemerintah Daerah Lainnya;5
+6.1.05.03;Penerimaan Kembali Pinjaman kepada BUMD;4
+6.1.05.03.01;Penerimaan Kembali Pinjaman kepada BUMD;5
+6.1.05.03.02;Penerimaan Kembali Investasi Non Permanen kepada BUMD;5
+6.1.05.04;Penerimaan Kembali Pinjaman kepada BUMN;4
+6.1.05.04.01;Penerimaan Kembali Pinjaman kepada BUMN;5
+6.1.05.04.02;Penerimaan Kembali Investasi Non Permanen kepada BUMN;5
+6.1.05.05;Penerimaan Kembali Pinjaman kepada Koperasi;4
+6.1.05.05.01;Penerimaan Kembali Pinjaman kepada Koperasi;5
+6.1.05.05.02;Penerimaan Kembali Dana Bergulir kepada Koperasi;5
+6.1.05.06;Penerimaan Kembali Pinjaman kepada Masyarakat;4
+6.1.05.06.01;Penerimaan Kembali Pinjaman kepada Masyarakat;5
+6.1.05.06.02;Penerimaan Kembali Dana Bergulir kepada Masyarakat;5
+6.1.05.07;Penerimaan Kembali Dana Bergulir kepada BLUD;4
+6.1.05.07.01;Penerimaan Kembali Dana Bergulir kepada BLUD;5
+6.1.06;Penerimaan Pembiayaan Lainnya Sesuai dengan Ketentuan Peraturan Perundang-Undangan;3
+6.1.06.01;Penerimaan Kembali Pinjaman melalui BLUD;4
+6.1.06.01.01;Penerimaan Kembali Pinjaman melalui BLUD-Jangka Pendek;5
+6.1.06.01.02;Penerimaan Kembali Pinjaman melalui BLUD-Jangka Menengah;5
+6.1.06.01.03;Penerimaan Kembali Pinjaman melalui BLUD-Jangka Panjang;5
+6.1.06.02;Divestasi BLUD;4
+6.1.06.02.01;Divestasi Jangka Pendek BLUD;5
+6,2;PENGELUARAN PEMBIAYAAN;2
+6.2.01;Pembentukan Dana Cadangan;3
+6.2.01.01;Pembentukan Dana Cadangan;4
+6.2.01.01.01;Pembentukan Dana Cadangan;5
+6.2.02;Penyertaan Modal Daerah;3
+6.2.02.01;Penyertaan Modal Daerah pada Badan Usaha Milik Negara (BUMN);4
+6.2.02.01.01;Penyertaan Modal Daerah pada BUMN;5
+6.2.02.02;Penyertaan Modal Daerah pada Badan Usaha Milik Daerah (BUMD);4
+6.2.02.02.01;Penyertaan Modal Daerah pada BUMD;5
+6.2.03;Pembayaran Cicilan Pokok Utang yang Jatuh Tempo;3
+6.2.03.01;Pembayaran Pinjaman Daerah dari Pemerintah Pusat;4
+6.2.03.01.01;Pembayaran Pinjaman Daerah dari Pemerintah Pusat-Penerusan Pinjaman Dalam Negeri-Jangka Menengah;5
+6.2.03.01.02;Pembayaran Pinjaman Daerah dari Pemerintah Pusat-Penerusan Pinjaman Dalam Negeri-Jangka Panjang;5
+6.2.03.01.03;Pembayaran Pinjaman Daerah dari Pemerintah Pusat-Penerusan Pinjaman Luar Negeri-Jangka Menengah;5
+6.2.03.01.04;Pembayaran Pinjaman Daerah dari Pemerintah Pusat-Penerusan Pinjaman Luar Negeri-Jangka Panjang;5
+6.2.03.01.05;Pembayaran Pinjaman Daerah dari Pemerintah Pusat- Sumber Lainnya sesuai dengan Ketentuan Peraturan Perundang-Undangan-Jangka Menengah;5
+6.2.03.01.06;Pembayaran Pinjaman Daerah dari Pemerintah Pusat-Sumber Lainnya sesuai dengan Ketentuan Peraturan Perundang-undangan-Jangka Panjang;5
+6.2.03.02;Pembayaran Pinjaman dari Pemerintah Daerah Lain;4
+6.2.03.02.01;Pembayaran Pinjaman dari Pemerintah Daerah Lain-Jangka Pendek;5
+6.2.03.03;Pembayaran Pinjaman dari Lembaga Keuangan Bank (LKB);4
+6.2.03.03.01;Pembayaran Pinjaman dari Lembaga Keuangan Bank (LKB)-BUMN-Jangka Pendek;5
+6.2.03.03.02;Pembayaran Pinjaman dari Lembaga Keuangan Bank (LKB)-BUMN-Jangka Menengah;5
+6.2.03.03.03;Pembayaran Pinjaman dari Lembaga Keuangan Bank (LKB)-BUMN-Jangka Panjang;5
+6.2.03.03.04;Pembayaran Pinjaman dari Lembaga Keuangan Bank (LKB)-BUMD-Jangka Pendek;5
+6.2.03.03.05;Pembayaran Pinjaman dari Lembaga Keuangan Bank (LKB)-BUMD-Jangka Menengah;5
+6.2.03.03.06;Pembayaran Pinjaman dari Lembaga Keuangan Bank (LKB)-BUMD-Jangka Panjang;5
+6.2.03.03.07;Pembayaran Pinjaman dari Lembaga Keuangan Bank (LKB)-Swasta-Jangka Pendek;5
+6.2.03.03.08;Pembayaran Pinjaman dari Lembaga Keuangan Bank (LKB)-Swasta-Jangka Menengah;5
+6.2.03.03.09;Pembayaran Pinjaman dari Lembaga Keuangan Bank (LKB)-Swasta-Jangka Panjang;5
+6.2.03.04;Pembayaran Pinjaman dari Lembaga Keuangan Bukan Bank (LKBB);4
+6.2.03.04.01;Pembayaran Pinjaman dari Lembaga Keuangan Bukan Bank (LKBB)-BUMN-Jangka Pendek;5
+6.2.03.04.02;Pembayaran Pinjaman dari Lembaga Keuangan Bukan Bank (LKBB)-BUMN-Jangka Menengah;5
+6.2.03.04.03;Pembayaran Pinjaman dari Lembaga Keuangan Bukan Bank (LKBB)-BUMN-Jangka Panjang;5
+6.2.03.04.04;Pembayaran Pinjaman dari Lembaga Keuangan Bukan Bank (LKBB)-BUMD-Jangka Pendek;5
+6.2.03.04.05;Pembayaran Pinjaman dari Lembaga Keuangan Bukan Bank (LKBB)-BUMD-Jangka Menengah;5
+6.2.03.04.06;Pembayaran Pinjaman dari Lembaga Keuangan Bukan Bank (LKBB)-BUMD-Jangka Panjang;5
+6.2.03.04.07;Pembayaran Pinjaman dari Lembaga Keuangan Bukan Bank (LKBB)-Swasta-Jangka Pendek;5
+6.2.03.04.08;Pembayaran Pinjaman dari Lembaga Keuangan Bukan Bank (LKBB)-Swasta-Jangka Menengah;5
+6.2.03.04.09;Pembayaran Pinjaman dari Lembaga Keuangan Bukan Bank (LKBB)-Swasta-Jangka Panjang;5
+6.2.03.05;Pembayaran Pinjaman Daerah dari Masyarakat;4
+6.2.03.05.01;Pembayaran Obligasi Daerah;5
+6.2.04;Pemberian Pinjaman Daerah;3
+6.2.04.01;Pemberian Pinjaman Daerah kepada Pemerintah Pusat;4
+6.2.04.01.01;Pemberian Pinjaman Daerah kepada Pemerintah Pusat;5
+6.2.04.01.02;Pemberian Pinjaman-Investasi dalam Proyek Pembangunan kepada Pemerintah Pusat;5
+6.2.04.02;Pemberian Pinjaman Daerah kepada Pemerintah Daerah Lainnya;4
+6.2.04.02.01;Pemberian Pinjaman Daerah kepada Pemerintah Daerah Lainnya;5
+6.2.04.02.02;Pemberian Pinjaman-Investasi dalam Proyek Pembangunan kepada Pemerintah Daerah Lainnya;5
+6.2.04.03;Pemberian Pinjaman Daerah kepada BUMD;4
+6.2.04.03.01;Pemberian Pinjaman Daerah kepada BUMD;5
+6.2.04.03.02;Pemberian Pinjaman-Investasi Non Permanen kepada BUMD;5
+6.2.04.04;Pemberian Pinjaman Daerah kepada BUMN;4
+6.2.04.04.01;Pemberian Pinjaman Daerah kepada BUMN;5
+6.2.04.04.02;Pemberian Pinjaman-Investasi Non Permanen Lainnya kepada BUMN;5
+6.2.04.05;Pemberian Pinjaman Daerah kepada Koperasi;4
+6.2.04.05.01;Pemberian Pinjaman Daerah kepada Koperasi;5
+6.2.04.05.02;Pemberian Pinjaman-Dana Bergulir kepada Koperasi;5
+6.2.04.06;Pemberian Pinjaman Daerah kepada Masyarakat;4
+6.2.04.06.01;Pemberian Pinjaman Daerah kepada Masyarakat;5
+6.2.04.06.02;Pemberian Pinjaman-Dana Bergulir kepada Masyarakat;5
+6.2.04.07;Pemberian Pinjaman-Dana Bergulir melalui BLUD;4
+6.2.04.07.01;Pemberian Pinjaman-Dana Bergulir melalui BLUD;5
+6.2.05;Pengeluaran Pembiayaan Lainnya sesuai dengan Ketentuan Peraturan Perundang-Undangan;3
+6.2.05.01;Pinjaman melalui BLUD;4
+6.2.05.01.01;Pinjaman melalui BLUD-Jangka Pendek;5
+6.2.05.01.02;Pinjaman melalui BLUD-Jangka Menengah;5
+6.2.05.01.03;Pinjaman melalui BLUD-Jangka Panjang;5
+6.2.05.02;Investasi BLUD;4
+6.2.05.02.01;Investasi Jangka Pendek BLUD;5

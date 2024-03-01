@@ -1,0 +1,35 @@
+{
+    "private": true,
+    "type": "module",
+    "scripts": {
+        "dev": "vite",
+        "build": "vite build"
+    },
+    "devDependencies": {
+        "@popperjs/core": "^2.11.6",
+        "@vitejs/plugin-vue": "^4.0.0",
+        "@vue/babel-plugin-jsx": "^1.1.5",
+        "axios": "^1.4.0",
+        "bootstrap": "^5.2.3",
+        "laravel-vite-plugin": "^0.7.5",
+        "sass": "^1.56.1",
+        "vite": "^4.0.0",
+        "vue": "^3.2.37"
+    },
+    "dependencies": {
+        "@ant-design/icons": "^5.2.5",
+        "ant-design-vue": "^4.0.0",
+        "datatables.net-bs5": "^1.13.6",
+        "datatables.net-buttons-bs5": "^2.4.2",
+        "datatables.net-dt": "^1.13.6",
+        "datatables.net-fixedcolumns-dt": "^4.3.0",
+        "datatables.net-fixedheader-dt": "^3.4.0",
+        "datatables.net-select": "^1.7.0",
+        "datatables.net-vue3": "^2.1.3",
+        "jszip": "^3.10.1",
+        "pdfmake": "^0.2.7",
+        "vue-toastification": "^2.0.0-rc.5",
+        "ziggy": "^2.4.0",
+        "ziggy-js": "^1.6.2"
+    }
+}

@@ -1,0 +1,24 @@
+// Fonts
+@import url('https://fonts.bunny.net/css?family=Nunito');
+@import 'ant-design-vue/dist/reset.css';
+@import "vue-toastification/dist/index.css";
+@import 'datatables.net-bs5';
+// Variables
+@import 'variables';
+
+// // required to get $orange variable
+// @import "bootstrap/scss/functions"; 
+// @import "bootstrap/scss/variables";
+
+// $primary: $orange; // set the $primary variable
+
+// // merge with existing $theme-colors map
+// $theme-colors: map-merge($theme-colors, (
+//   "primary": #FFA500
+// ));
+
+// // change card bg
+// $card-bg: $white;
+
+// // Bootstrap
+// @import 'bootstrap/scss/bootstrap';
